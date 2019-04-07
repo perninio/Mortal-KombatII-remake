@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/Hania/Desktop/ver 0.1.apk
+C:/Users/boromir/Documents/Mortal-KombatII-remake/mortalKombatsterowanie2.0.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
@@ -118,7 +118,9 @@ d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.Spa
 b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.Analytics.Editor.dll:UnityEditor.Analytics.AnalyticsEventTrackerEditor
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.TextMeshPro.dll:TMPro.TMP_SpriteAnimator
+77b5b392291ad3027e7177d702923e9e Assembly-CSharp.dll:.Player
 4fd8bf02e3089425d3502e26c44ba31a Unity.TextMeshPro.dll:TMPro.TextContainer
+9692e4e984a7d56c86b9c457dad5bfe1 Assembly-CSharp.dll:.InputManager
 e6ae40841db498b6e673877ac45ad208 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 1dcb82730d983b77cec736c6ef19f814 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
@@ -136,7 +138,6 @@ ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networki
 510fefd6a544e16a3ffefa557ddcba39 Unity.TextMeshPro.dll:TMPro.PackageResourceImporterWindow
 aa82b3ce4c0c9b227036c0337315c5d3 Unity.TextMeshPro.dll:TMPro.TMP_FontAsset
 e51c09a4cc447f11db225afcd8e3e490 Unity.TextMeshPro.dll:TMPro.TMP_Settings
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.MoveByTOuch
 cf96e5f7b3d069bab453925bd41be04e UnityEngine.TestRunner.dll:UnityEngine.TestTools.EnumerableSetUpTearDownCommandState
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 259d013faac28e8ba0aa2a7542273735 UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
@@ -157,10 +158,4 @@ d791aa6007fa3640be1164ea75bb087d Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 3165968ba45c74472d279ba04455fccb Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
-ce669872a2be11bc686ea22961d8a3bb Assembly-CSharp.dll:.Joystick
-9e27f44bbf48228f203a37254d40f8ae Assembly-CSharp.dll:.JoystickSetterExample
-ce669872a2be11bc686ea22961d8a3bb Assembly-CSharp.dll:.FloatingJoystick
-824e8d4cb47ffd88ddf959dbd4526585 Assembly-CSharp.dll:.DynamicJoystick
-ce669872a2be11bc686ea22961d8a3bb Assembly-CSharp.dll:.FixedJoystick
-528e9858840cb8370d93939fff6b42d9 Assembly-CSharp.dll:.JoystickPlayerExample
-9dac16f3efc511835ac976dfae55f580 Assembly-CSharp.dll:.VariableJoystick
+1574f0ea57320cf1695dc813ae88628c Assembly-CSharp.dll:.TouchButton

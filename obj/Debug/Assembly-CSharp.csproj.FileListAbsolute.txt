@@ -1,0 +1,2 @@
+C:\Users\boromir\Documents\Mortal-KombatII-remake\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\boromir\Documents\Mortal-KombatII-remake\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
