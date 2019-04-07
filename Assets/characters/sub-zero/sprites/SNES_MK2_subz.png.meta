@@ -1,0 +1,6557 @@
+fileFormatVersion: 2
+guid: 5dbecf1bb1796c74cb83cf908ed43843
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES_MK2_subz_0
+    21300002: SNES_MK2_subz_1
+    21300004: SNES_MK2_subz_2
+    21300006: SNES_MK2_subz_3
+    21300008: SNES_MK2_subz_4
+    21300010: SNES_MK2_subz_5
+    21300012: SNES_MK2_subz_6
+    21300014: SNES_MK2_subz_7
+    21300016: SNES_MK2_subz_8
+    21300018: SNES_MK2_subz_9
+    21300020: SNES_MK2_subz_10
+    21300022: SNES_MK2_subz_11
+    21300024: SNES_MK2_subz_12
+    21300026: SNES_MK2_subz_13
+    21300028: SNES_MK2_subz_14
+    21300030: SNES_MK2_subz_15
+    21300032: SNES_MK2_subz_16
+    21300034: SNES_MK2_subz_17
+    21300036: SNES_MK2_subz_18
+    21300038: SNES_MK2_subz_19
+    21300040: SNES_MK2_subz_20
+    21300042: SNES_MK2_subz_21
+    21300044: SNES_MK2_subz_22
+    21300046: SNES_MK2_subz_23
+    21300048: SNES_MK2_subz_24
+    21300050: SNES_MK2_subz_25
+    21300052: SNES_MK2_subz_26
+    21300054: SNES_MK2_subz_27
+    21300056: SNES_MK2_subz_28
+    21300058: SNES_MK2_subz_29
+    21300060: SNES_MK2_subz_30
+    21300062: SNES_MK2_subz_31
+    21300064: SNES_MK2_subz_32
+    21300066: SNES_MK2_subz_33
+    21300068: SNES_MK2_subz_34
+    21300070: SNES_MK2_subz_35
+    21300072: SNES_MK2_subz_36
+    21300074: SNES_MK2_subz_37
+    21300076: SNES_MK2_subz_38
+    21300078: SNES_MK2_subz_39
+    21300080: SNES_MK2_subz_40
+    21300082: SNES_MK2_subz_41
+    21300084: SNES_MK2_subz_42
+    21300086: SNES_MK2_subz_43
+    21300088: SNES_MK2_subz_44
+    21300090: SNES_MK2_subz_45
+    21300092: SNES_MK2_subz_46
+    21300094: SNES_MK2_subz_47
+    21300096: SNES_MK2_subz_48
+    21300098: SNES_MK2_subz_49
+    21300100: SNES_MK2_subz_50
+    21300102: SNES_MK2_subz_51
+    21300104: SNES_MK2_subz_52
+    21300106: SNES_MK2_subz_53
+    21300108: SNES_MK2_subz_54
+    21300110: SNES_MK2_subz_55
+    21300112: SNES_MK2_subz_56
+    21300114: SNES_MK2_subz_57
+    21300116: SNES_MK2_subz_58
+    21300118: SNES_MK2_subz_59
+    21300120: SNES_MK2_subz_60
+    21300122: SNES_MK2_subz_61
+    21300124: SNES_MK2_subz_62
+    21300126: SNES_MK2_subz_63
+    21300128: SNES_MK2_subz_64
+    21300130: SNES_MK2_subz_65
+    21300132: SNES_MK2_subz_66
+    21300134: SNES_MK2_subz_67
+    21300136: SNES_MK2_subz_68
+    21300138: SNES_MK2_subz_69
+    21300140: SNES_MK2_subz_70
+    21300142: SNES_MK2_subz_71
+    21300144: SNES_MK2_subz_72
+    21300146: SNES_MK2_subz_73
+    21300148: SNES_MK2_subz_74
+    21300150: SNES_MK2_subz_75
+    21300152: SNES_MK2_subz_76
+    21300154: SNES_MK2_subz_77
+    21300156: SNES_MK2_subz_78
+    21300158: SNES_MK2_subz_79
+    21300160: SNES_MK2_subz_80
+    21300162: SNES_MK2_subz_81
+    21300164: SNES_MK2_subz_82
+    21300166: SNES_MK2_subz_83
+    21300168: SNES_MK2_subz_84
+    21300170: SNES_MK2_subz_85
+    21300172: SNES_MK2_subz_86
+    21300174: SNES_MK2_subz_87
+    21300176: SNES_MK2_subz_88
+    21300178: SNES_MK2_subz_89
+    21300180: SNES_MK2_subz_90
+    21300182: SNES_MK2_subz_91
+    21300184: SNES_MK2_subz_92
+    21300186: SNES_MK2_subz_93
+    21300188: SNES_MK2_subz_94
+    21300190: SNES_MK2_subz_95
+    21300192: SNES_MK2_subz_96
+    21300194: SNES_MK2_subz_97
+    21300196: SNES_MK2_subz_98
+    21300198: SNES_MK2_subz_99
+    21300200: SNES_MK2_subz_100
+    21300202: SNES_MK2_subz_101
+    21300204: SNES_MK2_subz_102
+    21300206: SNES_MK2_subz_103
+    21300208: SNES_MK2_subz_104
+    21300210: SNES_MK2_subz_105
+    21300212: SNES_MK2_subz_106
+    21300214: SNES_MK2_subz_107
+    21300216: SNES_MK2_subz_108
+    21300218: SNES_MK2_subz_109
+    21300220: SNES_MK2_subz_110
+    21300222: SNES_MK2_subz_111
+    21300224: SNES_MK2_subz_112
+    21300226: SNES_MK2_subz_113
+    21300228: SNES_MK2_subz_114
+    21300230: SNES_MK2_subz_115
+    21300232: SNES_MK2_subz_116
+    21300234: SNES_MK2_subz_117
+    21300236: SNES_MK2_subz_118
+    21300238: SNES_MK2_subz_119
+    21300240: SNES_MK2_subz_120
+    21300242: SNES_MK2_subz_121
+    21300244: SNES_MK2_subz_122
+    21300246: SNES_MK2_subz_123
+    21300248: SNES_MK2_subz_124
+    21300250: SNES_MK2_subz_125
+    21300252: SNES_MK2_subz_126
+    21300254: SNES_MK2_subz_127
+    21300256: SNES_MK2_subz_128
+    21300258: SNES_MK2_subz_129
+    21300260: SNES_MK2_subz_130
+    21300262: SNES_MK2_subz_131
+    21300264: SNES_MK2_subz_132
+    21300266: SNES_MK2_subz_133
+    21300268: SNES_MK2_subz_134
+    21300270: SNES_MK2_subz_135
+    21300272: SNES_MK2_subz_136
+    21300274: SNES_MK2_subz_137
+    21300276: SNES_MK2_subz_138
+    21300278: SNES_MK2_subz_139
+    21300280: SNES_MK2_subz_140
+    21300282: SNES_MK2_subz_141
+    21300284: SNES_MK2_subz_142
+    21300286: SNES_MK2_subz_143
+    21300288: SNES_MK2_subz_144
+    21300290: SNES_MK2_subz_145
+    21300292: SNES_MK2_subz_146
+    21300294: SNES_MK2_subz_147
+    21300296: SNES_MK2_subz_148
+    21300298: SNES_MK2_subz_149
+    21300300: SNES_MK2_subz_150
+    21300302: SNES_MK2_subz_151
+    21300304: SNES_MK2_subz_152
+    21300306: SNES_MK2_subz_153
+    21300308: SNES_MK2_subz_154
+    21300310: SNES_MK2_subz_155
+    21300312: SNES_MK2_subz_156
+    21300314: SNES_MK2_subz_157
+    21300316: SNES_MK2_subz_158
+    21300318: SNES_MK2_subz_159
+    21300320: SNES_MK2_subz_160
+    21300322: SNES_MK2_subz_161
+    21300324: SNES_MK2_subz_162
+    21300326: SNES_MK2_subz_163
+    21300328: SNES_MK2_subz_164
+    21300330: SNES_MK2_subz_165
+    21300332: SNES_MK2_subz_166
+    21300334: SNES_MK2_subz_167
+    21300336: SNES_MK2_subz_168
+    21300338: SNES_MK2_subz_169
+    21300340: SNES_MK2_subz_170
+    21300342: SNES_MK2_subz_171
+    21300344: SNES_MK2_subz_172
+    21300346: SNES_MK2_subz_173
+    21300348: SNES_MK2_subz_174
+    21300350: SNES_MK2_subz_175
+    21300352: SNES_MK2_subz_176
+    21300354: SNES_MK2_subz_177
+    21300356: SNES_MK2_subz_178
+    21300358: SNES_MK2_subz_179
+    21300360: SNES_MK2_subz_180
+    21300362: SNES_MK2_subz_181
+    21300364: SNES_MK2_subz_182
+    21300366: SNES_MK2_subz_183
+    21300368: SNES_MK2_subz_184
+    21300370: SNES_MK2_subz_185
+    21300372: SNES_MK2_subz_186
+    21300374: SNES_MK2_subz_187
+    21300376: SNES_MK2_subz_188
+    21300378: SNES_MK2_subz_189
+    21300380: SNES_MK2_subz_190
+    21300382: SNES_MK2_subz_191
+    21300384: SNES_MK2_subz_192
+    21300386: SNES_MK2_subz_193
+    21300388: SNES_MK2_subz_194
+    21300390: SNES_MK2_subz_195
+    21300392: SNES_MK2_subz_196
+    21300394: SNES_MK2_subz_197
+    21300396: SNES_MK2_subz_198
+    21300398: SNES_MK2_subz_199
+    21300400: SNES_MK2_subz_200
+    21300402: SNES_MK2_subz_201
+    21300404: SNES_MK2_subz_202
+    21300406: SNES_MK2_subz_203
+    21300408: SNES_MK2_subz_204
+    21300410: SNES_MK2_subz_205
+    21300412: SNES_MK2_subz_206
+    21300414: SNES_MK2_subz_207
+    21300416: SNES_MK2_subz_208
+    21300418: SNES_MK2_subz_209
+    21300420: SNES_MK2_subz_210
+    21300422: SNES_MK2_subz_211
+    21300424: SNES_MK2_subz_212
+    21300426: SNES_MK2_subz_213
+    21300428: SNES_MK2_subz_214
+    21300430: SNES_MK2_subz_215
+    21300432: SNES_MK2_subz_216
+    21300434: SNES_MK2_subz_217
+    21300436: SNES_MK2_subz_218
+    21300438: SNES_MK2_subz_219
+    21300440: SNES_MK2_subz_220
+    21300442: SNES_MK2_subz_221
+    21300444: SNES_MK2_subz_222
+    21300446: SNES_MK2_subz_223
+    21300448: SNES_MK2_subz_224
+    21300450: SNES_MK2_subz_225
+    21300452: SNES_MK2_subz_226
+    21300454: SNES_MK2_subz_227
+    21300456: SNES_MK2_subz_228
+    21300458: SNES_MK2_subz_229
+    21300460: SNES_MK2_subz_230
+    21300462: SNES_MK2_subz_231
+    21300464: SNES_MK2_subz_232
+    21300466: SNES_MK2_subz_233
+    21300468: SNES_MK2_subz_234
+    21300470: SNES_MK2_subz_235
+    21300472: SNES_MK2_subz_236
+    21300474: SNES_MK2_subz_237
+    21300476: SNES_MK2_subz_238
+    21300478: SNES_MK2_subz_239
+    21300480: SNES_MK2_subz_240
+    21300482: SNES_MK2_subz_241
+    21300484: SNES_MK2_subz_242
+    21300486: SNES_MK2_subz_243
+    21300488: SNES_MK2_subz_244
+    21300490: SNES_MK2_subz_245
+    21300492: SNES_MK2_subz_246
+    21300494: SNES_MK2_subz_247
+    21300496: SNES_MK2_subz_248
+    21300498: SNES_MK2_subz_249
+    21300500: SNES_MK2_subz_250
+    21300502: SNES_MK2_subz_251
+    21300504: SNES_MK2_subz_252
+    21300506: SNES_MK2_subz_253
+    21300508: SNES_MK2_subz_254
+    21300510: SNES_MK2_subz_255
+    21300512: SNES_MK2_subz_256
+    21300514: SNES_MK2_subz_257
+    21300516: SNES_MK2_subz_258
+    21300518: SNES_MK2_subz_259
+    21300520: SNES_MK2_subz_260
+    21300522: SNES_MK2_subz_261
+    21300524: SNES_MK2_subz_262
+    21300526: SNES_MK2_subz_263
+    21300528: SNES_MK2_subz_264
+    21300530: SNES_MK2_subz_265
+    21300532: SNES_MK2_subz_266
+    21300534: SNES_MK2_subz_267
+    21300536: SNES_MK2_subz_268
+    21300538: SNES_MK2_subz_269
+    21300540: SNES_MK2_subz_270
+    21300542: SNES_MK2_subz_271
+    21300544: SNES_MK2_subz_272
+    21300546: SNES_MK2_subz_273
+    21300548: SNES_MK2_subz_274
+    21300550: SNES_MK2_subz_275
+    21300552: SNES_MK2_subz_276
+    21300554: SNES_MK2_subz_277
+    21300556: SNES_MK2_subz_278
+    21300558: SNES_MK2_subz_279
+    21300560: SNES_MK2_subz_280
+    21300562: SNES_MK2_subz_281
+    21300564: SNES_MK2_subz_282
+    21300566: SNES_MK2_subz_283
+    21300568: SNES_MK2_subz_284
+    21300570: SNES_MK2_subz_285
+    21300572: SNES_MK2_subz_286
+    21300574: SNES_MK2_subz_287
+    21300576: SNES_MK2_subz_288
+    21300578: SNES_MK2_subz_289
+    21300580: SNES_MK2_subz_290
+    21300582: SNES_MK2_subz_291
+    21300584: SNES_MK2_subz_292
+    21300586: SNES_MK2_subz_293
+    21300588: SNES_MK2_subz_294
+    21300590: SNES_MK2_subz_295
+    21300592: SNES_MK2_subz_296
+    21300594: SNES_MK2_subz_297
+    21300596: SNES_MK2_subz_298
+    21300598: SNES_MK2_subz_299
+    21300600: SNES_MK2_subz_300
+    21300602: SNES_MK2_subz_301
+    21300604: SNES_MK2_subz_302
+    21300606: SNES_MK2_subz_303
+    21300608: SNES_MK2_subz_304
+    21300610: SNES_MK2_subz_305
+    21300612: SNES_MK2_subz_306
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES_MK2_subz_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1822
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b840a9b9b02468d4c946ba7bf5e7dbc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1822
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f4cd396a5c4874e9db10657d327227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1822
+        width: 37
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb60f4df1e2e8a4e8185f25fcdb8d8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1822
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dea4bdde969604e9c9a501407998bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1822
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69b9a92c067e134fa3e4f4ff0e0b51f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1822
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f7d5540f93ed2469177bf2e9083154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1822
+        width: 39
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e161f2e991f9a342b966af9012bcb17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1822
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed0b38ac5a588145be57b49f19271ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1822
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eb07b19e0a5da48adc5e4e23e2dd48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1822
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c73c1d3409707d4ca023d9568a1ae67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1822
+        width: 37
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e33c4aa87e6a745a368c5a7cdc20a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_11
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1822
+        width: 36
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c244f09eb1fc42458a36c1ebe7441b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_12
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1822
+        width: 36
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249bf9045ebce5c42a1cdfe1033e8324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_13
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1822
+        width: 38
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cca302236961e24bac7a072b66f2362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_14
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1822
+        width: 38
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22194a32c4ccec74d9191bad0f61eaf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_15
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1822
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0d3b927abf3e74487239337a62c910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_16
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1822
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5985cfde9f3e1f94d8e2d9ce96404ca1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_17
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1822
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e145393f4eecd4ea086769e32fabb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_18
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1822
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28083ca0d736ccd4dba52afaf6a7aeb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_19
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1822
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3df6b01bbb1a04c8212bac969dcba2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1703
+        width: 36
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421eea3759b25cd42a633b375c270fb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1703
+        width: 31
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1febd077f63873c4c8814ffea1298b07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1703
+        width: 31
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e824efdd0615c4d9726223b80f2c17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1703
+        width: 34
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea82fec332085441a5a05b0b11934d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_24
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1703
+        width: 35
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c44245954b0f5f44aa2e01f780ad0ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1703
+        width: 31
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72528b2f1e2047047bebb843ccc55c08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1703
+        width: 31
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00f3e855b63f394a88a218ca940b0eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_27
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1703
+        width: 34
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209362837086cda47b99a6dcf8bcae97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_28
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1703
+        width: 43
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34e62f2f2d22c94d9aacfc8cc0c2b8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_29
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1703
+        width: 45
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8511436de77b86146a541003ac5d52a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_30
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1703
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39409d6fcd3a96b408da8b6cd036ddae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_31
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1703
+        width: 37
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5343c17a4265a4cb28ca0e9eef4c4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_32
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1703
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75211c74727a1745bd73e79396faa9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_33
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1703
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a27efa20ff9ec46876a28c9b07d1b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_34
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1703
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f62c4eadd9442429531e076d5f99c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_35
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1703
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315f17c9e67580947a164d70b632c5cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_36
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1703
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5d976da3f8f9f4c9e8d9224cdf3e02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_37
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1703
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a09b5b3999b00a48a5a034757141438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_38
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1703
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a369ecd974579244791f8ff71a816d16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_39
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1689
+        width: 34
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb4bed754a929f44a7c10b385a77497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_40
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1689
+        width: 33
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b4952dc0227aa459fb59d752a7ebc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1587
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f29abb50fa0144eb113ea219f98d09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_42
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1587
+        width: 42
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b24eb282ecee6478c34e4b657979e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1587
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4488995fc8b876c438e4073fa3935948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_44
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1587
+        width: 39
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38dcd531707dff4898bbc72d86daceb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_45
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1587
+        width: 49
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ad8ea3d43449545a822e61f85d906c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1587
+        width: 55
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a228f6fe59d1eb41a0a7fb233e20d94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_47
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1587
+        width: 47
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f809b861cfed0784ca8faac60f1ef4a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_48
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1587
+        width: 41
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6056bb4d4169c6b43b1ae5cb9f93a20d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_49
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1587
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f277edbbe50a0c74194b9378cdf800ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_50
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1587
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51fa1e239f599b44aafe19f23563e8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_51
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1587
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ada5871ecffa684e9fcacd81d34694a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_52
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1587
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f364b2b32e0a9a747b3754e1b75b4c82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_53
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1587
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc62073dcae8e61408addc84999e31d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_54
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1587
+        width: 49
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b090ea62fbef7994aa6187124ed19722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_55
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1587
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ed995f05d7c044d9f49d213c4e38d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_56
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1482
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46673826f8f310f4ead4cb40819a45af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_57
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1482
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99764c325fa6054bae4bdefc3e11e3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1482
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e126d889be2ad1a42b7a26fb5bec2aac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_59
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1482
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44409bd11d09c0a4f85cb88a96088b6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_60
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1482
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5dda327610eaf4582f45716ab7accb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_61
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1482
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53a4a2679733bd45942f1afaadcf451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_62
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1482
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e0018e55dfb6c42abe306263920914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_63
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1482
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bad80ab963c6948a552fa7007bed03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_64
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1482
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e2714931ec6c94780280988cd19ac2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_65
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1482
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f7888ddec388847ab245e9c1ed411a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_66
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1368
+        width: 40
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0170ab73bcdcfd6459329ae5212f9f47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_67
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1368
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d3183c23faabf4697964137ff85812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_68
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1368
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfababbcfc1e4584ea9347ea550700d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_69
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1368
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25632811023f4884d944bf4c8354098c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_70
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1368
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aad16699f7363a4082356365e0dd7c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_71
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1368
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27191a79cb9f6fe4e9e8b9ae18bd3c3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_72
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1368
+        width: 40
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fe4952b1d34c842b0594717254ad30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_73
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1368
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ea85cd9a9314843929c0483278e65c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_74
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1368
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f14c9890f0a72140ac76264e01c0220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_75
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1368
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcf2718a560daa4a8bbd43d38567d43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_76
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1368
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b8c2aaa6aa6414d8d73476fd2e12e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_77
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1368
+        width: 33
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab28b8c0585b43c46bf08b540e841f05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_78
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1368
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2270bd1b3a5f89a458840c7d998220a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1264
+        width: 31
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aef266519aa2c54ba495ebc345d1bdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_80
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1264
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f6cb5b0af0a1d42a71875805c019f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1264
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ecaeb6dcba67c4e9564d4b52db3871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_82
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1264
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9661e0d5c13a30c4293221abeb1f88e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_83
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1264
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b90cd3004ef1f48a07775dfa21c8c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_84
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1264
+        width: 37
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3e4965ad3d04b4b9e3402672f0a752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_85
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1264
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af796b9e03ad85b409f28fe45d64817d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_86
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1264
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b21207ae4b74c46938d9e5cb582cd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_87
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1264
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d55f0d1ee4eb94e80e01499a6198a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_88
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1264
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddb0cf40fe508f4a97ce419c469fad3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_89
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1264
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4697fb92414ed2f49906eedc838831f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_90
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1133
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102db8808c26bfe4ca53f54c1c51fdf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_91
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1133
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32994498f089dd499d9672bdc9e91ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_92
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1133
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff4ef5784b34b14f937c378ee4b2592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_93
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1133
+        width: 36
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ae1d2dc0b2b1c4fb9d54dfbfc951ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_94
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1133
+        width: 42
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62868cf01f061904a9e3d2b0bf9dd58c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_95
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1133
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709e7de4fea15e6429c83eeea98ef7c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_96
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1133
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de97e96ff24446458904c323e3679e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_97
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1133
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474fb9a16453774284305775baf71d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_98
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1133
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fc77ee936947542ad29acac85c63b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_99
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1133
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742914ce96b000143bcf4a51e9c7f978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_100
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1133
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b4c214aee4d91458ba3a96465d9b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_101
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1133
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761a64c712dcad54085aa77c0358c53c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_102
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1133
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a0ce5a96f7bc0409d4fff311e01393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_103
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1133
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6669779fdaba9ca49b580fb3d8c5021a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_104
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1133
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd5b09b718120046bf2ddb105622da1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_105
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1133
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8a216ce01ad4f4fba6ce1c79a3bf25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_106
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1133
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9f24d440c865047bfa27d064467d94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_107
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1038
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff28e1ffdd4db949852b2ac2ae56b8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_108
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1038
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c54ad68bccc2f4d83cafc414bbab11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_109
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1038
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900db2fa471a8ef499252ab6fe1ff7ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_110
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1038
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efa2130e443fb04492c32461fbc46ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_111
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1038
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc85df0926688a54e9a4bb45f91ecf9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_112
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1038
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1003c763827a53945a9b2021f10b5647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 926
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d799dd92585936a4d99a94989001d7d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_114
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 926
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5da66fa34e68c44a0bcd4073da915e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_115
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 926
+        width: 40
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9176ef2390d9a0244ba8a6c68adb3a88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_116
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 926
+        width: 45
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45845eb48e7ae3a43bee6f71a339689a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_117
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 926
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a69f2b0ab7e7664487bbd4683d4d3b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_118
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 926
+        width: 36
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0821594469872d349b97901e89e8028e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_119
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 926
+        width: 35
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3005f67aa80b43249b9922b93ab94db6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_120
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 926
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9914b27d60af242b9b7cf866f76974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_121
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 926
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57fc0e29c4724849ae9672e3851d5a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_122
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 926
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74ec25945e79ce42bb13f261d8e8fdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_123
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 926
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89577ce6896ec7f4ca9140989133a131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_124
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 926
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94d52be2adc1ae4e88c340d9cc6668d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_125
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 926
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc498fd155b0e8045b39abd83baad907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_126
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 926
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930ecd44e690c964691b8ef98fb66066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_127
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 926
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae1be1caabe5d4e9580078471f8c6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_128
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 926
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f4c40f1d5514d4883f94597ab76d72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_129
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 926
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb471343581411448cecc087693ef5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_130
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 926
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a3ba85b3d9a88449b990f975c27eb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_131
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 817
+        width: 36
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407b99be8d4b5a546bbd5701ed50af1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_132
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 817
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f5908c432b2f843961ce3d2fbde005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 817
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c092a62278d111418eadea0f8bb8844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_134
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 817
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ade38fa40954f4e9433c9b04ab6df8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_135
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 817
+        width: 83
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd926ec59d20037479feee254af123ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_136
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 817
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020848a387819e5489b75999f64a76b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_137
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 817
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82ec095c4b60c34f999314f57b2c9d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_138
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 817
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419ef8cefce874548b67b0eb623a9255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_139
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 817
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dd0813f54dc3c40a0711a2e159aa8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_140
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 817
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b999f5e3298e1a946ae272ecbea9ec70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_141
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 817
+        width: 83
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af4abaa110514f4ea3d53f612b73ee1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_142
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 817
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd7950efcdc54047aa09f74e7179135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_143
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 817
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc71b737a6747ba41bfc35e63d83b005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_144
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 817
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356a69eb413853c4ab7b938f58aefc7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_145
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 817
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b555ce6d29248d94582540414697d8d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 707
+        width: 34
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d3405c95eca5442a2f59853a3b9a4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_147
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 707
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c879ee693a6224b88006d243d28a5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_148
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 707
+        width: 35
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb62b692b85293c4f9225f9cb05b92b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_149
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 707
+        width: 36
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0c4b79df45cd64a8a46ba8de0253a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_150
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 707
+        width: 32
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9485429405425444eb05e05f0ff91e56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_151
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 707
+        width: 33
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8361e4ef549ef4b822d94fcb75e604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_152
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 707
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d5b6e64b1f59c4e844e38686934f1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_153
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 708
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e020b0c42e9b4f4298837cda8ddec85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_154
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 596
+        width: 37
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c715cf84f72624785642f8f8f4e787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_155
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 596
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eced00becfc19642b09a744db629c6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_156
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 596
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e95c6fc79b50d478330fe2ac33e9e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_157
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 596
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1a6abe1bf5c7449995e66eded1f534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_158
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 596
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c033d0b4abd9004592a3f6dfb3e8a2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_159
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 613
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad73567a43486a43a66ee0339ea21bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_160
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 621
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdb51ec16a1e9d478a3263743c713ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_161
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 596
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf3c12c853c710408bd7bd5e4abe5ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_162
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 607
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8681d617d140f94c81b4147019d9a4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_163
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 613
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354d5dede2cd43e45b796933b6e3d5cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_164
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 615
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ade93a699769f4eb32834678cca626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_165
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 607
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1832419e0076a7b4ab71e43bc32e547f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_166
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 596
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7779a02a66c20d4eb4553b473a819f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_167
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 606
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a8087e94c5c5546b22a18bd80652c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_168
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 608
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9d42c17825fb4429bd652b515873b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_169
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 598
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de987b6b6f98b9347833b68ba884d0f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_170
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 606
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f8ff13778b8e640bec67b0d78bfbd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_171
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 615
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324936184db7aa144b2d10d7469a0174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_172
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 600
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a6aa6dd671ce34187313560c80f6e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_173
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 607
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7040d538d53ac7a4fb728e7f15f4472d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_174
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 599
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aebd254c843a54abfcbddc1d61a4f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_175
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 602
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e88a165f740d34ea495df5a0fc5f09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_176
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 596
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c83ba343e5e134a928c5095cc2c007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_177
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 611
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb649ca82f2e75408dd0f0735e9a61b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_178
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 596
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3e0f131cb82274881d87e91c8931fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_179
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 604
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c326b704eda484aa5c2b1c7b8ff34a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_180
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 610
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82975c3202029bc45aa55e85ea4811ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_181
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 612
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66173ff443865a245b5c40b3d071d1d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_182
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 604
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03ea817f298a3c44bcc4112a0e65db6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_183
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 610
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf191c93a1cd3c46b8dde80acc55495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_184
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 619
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74f2bfdf46647145953ec5ff5398bdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_185
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 604
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a092211cdded2204694f2c81c0f49d27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_186
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 596
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d330dc8f03442840b9857597d2eb953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_187
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 619
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45302de26dbc13248b116e9dcbec153a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_188
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 624
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b228459d41a9c834591af73ac4b2422b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_189
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 596
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e1e947f52842c4e9f29e4dfca4b7e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_190
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 596
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6cbab88d2160149a14b206089afa8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_191
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 627
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367ff6819268e1a47a9c9f4b1c8acec3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_192
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 596
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a074b4ff8c9e07344baf4adef0068f17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_193
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 483
+        width: 41
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc78278bbf72ab54093ba0a508360d73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_194
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 483
+        width: 39
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d66b9e63a20d44aba602f95f357a34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_195
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 483
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd9e00c0b881f64da0fe163f62801c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_196
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 483
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b25c6136839b5d4d8f856e0b13ede37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_197
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 483
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8b8c290cbbcd14d9c9896b6224fd1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_198
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 487
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f08ac4133b4a574db74c3b0ce89c888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_199
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 524
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0338337be48aaf9469c4b9c24b662ca9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_200
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 529
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045919cff900d0340992d877a06dc879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_201
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 488
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4916ecb07c19cb14685b7310effc606b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_202
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 483
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b292c8f234741a42874ac038f33e285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_203
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 483
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20e9621f5f6c9749841f54b3ed8c107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_204
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 496
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8654cc5f63866064c9371a657e5592a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_205
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 515
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b613e19e00e5d4d9433be1125ca624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_206
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 517
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f39c192a3752334fb2415049f684f91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_207
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 505
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fba7c5670b99d48a31d0d047d3665b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_208
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 507
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23179c717198544fad4729d0a8793d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_209
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 506
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f9c469845cd094f879cf72fbe9a3b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_210
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 483
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4e119733391c54bb9a94aefc91530b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_211
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 510
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7f5ddb4df64c649a478c6c9dcfdb60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_212
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 498
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c7d085e8df3374499090fb054595c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_213
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 499
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3025040b8128a7a43890e7f7d474e31c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_214
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 495
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4c963f1d9d27a41b93695035b35419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_215
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 483
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7644c9e590b1b714993817fb6da25d1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_216
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 483
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaf9005ea6645e40a89a897c56b269f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_217
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 483
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2993cf7e38d8a0a43aa20acc51e7cb1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_218
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 483
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dd383dfd7aa2743990894cdbd7ac4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_219
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 483
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c766418c9181854408d2b04471e09671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_220
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 483
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e553a64839faf41b4ad89e3f560226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_221
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 483
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee15c8ef740ff8a4380b8b54d486cbf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_222
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 366
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea4e0f96400abd438b2ee3ee90d99ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_223
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 366
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d74fdd223cd1e429b447fc221875f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_224
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 366
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b4bbef21c426940a77f23df112da88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_225
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 366
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3929641e7cf2324c812948e84abb32f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_226
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 366
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7c5780323b37f49856e75cf9dc3ff7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_227
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 366
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78d79cebea816b4f983d1350e6c1bf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_228
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 366
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534dcce7a975ffc4b942d4b268844891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_229
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 366
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71d6e33479d3e243a27fd8b9c8b1083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_230
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 366
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5891fc0ca40f1664d8bf820ec5d16644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_231
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 366
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eaa7b6331743f45b0b2f40961662e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_232
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 366
+        width: 76
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734016105084e0842becc78803d6205a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_233
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 366
+        width: 37
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a066d2455ab9b684793b6605ed3e7914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_234
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 366
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84987ff418763934a8e91419706445b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_235
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 383
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827ba774854dad547bf1b7582e8ba12c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_236
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 383
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4875b3faa458f24a873f21d02469aad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_237
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 383
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bab5359f0b84a94f8b8bdc603dae3f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_238
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 383
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71a4b4c2de61dd42bfbe54a971f4e88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_239
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 383
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ef59dcf24a5de41abbf7eef6b41105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_240
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 366
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a16dd8c021bbc14e807786a835efc8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_241
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 366
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bdc8890eeda0946801756377dac79f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_242
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 366
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8170832133f514eada8a829fa9d861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_243
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 366
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21ba7bc04143ba42933681ee041d46b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_244
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 366
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394795a5e2c661f4ebafde988968f15a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_245
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 366
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951fd06a207c3e44d8034b2b9d998bce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_246
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 366
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673b2bcc775d82d4eb066d252ea84a5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_247
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 255
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385d6b6a880b01345b2035558deedd80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_248
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 255
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a681a85d22e69bb41b50e04c0fa2aaf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_249
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 255
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184d95b0012ea25408e55fd13ad18464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_250
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 255
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76390b33273a8614a9adc0bf136059c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_251
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 255
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d7239e5dbe98840ab8c2e1cc885877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_252
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 255
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43c789454a66454a99516a167fbf0aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_253
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 255
+        width: 38
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0cc1452313adb4f98a270cdcee5502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_254
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 255
+        width: 35
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e8e489869d97e4eb894b435eb31e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_255
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 255
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23944b0d18ea224ca728d0e271ea1ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_256
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 255
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f985c87a6cda2c24f8888b074e9f239a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_257
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 255
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c5afc510900074083e6224e97be060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_258
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 255
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886bb5e8219b0c4488fae20807d2f4bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_259
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 255
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c46fe80a5b928e4eb25fa34ebf07825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_260
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 255
+        width: 103
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9790477337d0c24a808b6252e8761df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_261
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 255
+        width: 119
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd53809a59c8de45953295f96408aef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_262
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 138
+        width: 15
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d61ccf22efd8146896f8b92ad26836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_263
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 138
+        width: 24
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a10112f151322f43b62c1a1016332ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_264
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 138
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8da5c0efb4511646bddab37cf4f34c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_265
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 138
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48cfe980910b31468412ded71aa281a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_266
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 138
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c897aa25ca7984dafadce271e7d304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_267
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 138
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d4386a5415cb644ba513f0724969b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_268
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 138
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2feb06625b57b544a3792955392a552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_269
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 138
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7153dcff086cd4418eb0ad8ad07297c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_270
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 138
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b840ca9d3d003a4890569134b2f5a88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_271
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 138
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77e5da474362944f9d0bbb060f5b189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_272
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 138
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d41426a5d9a30540bd7178cdfc6d604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_273
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 138
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f94f0b34287e1d4685cdad1e2f268b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_274
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 138
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3290a00999e780e4da4b86d691e17dd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_275
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 138
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8d036b40a3853428ee9a7593208512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_276
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 138
+        width: 27
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189888e8111f1504591f8d9b5c575085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_277
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 138
+        width: 25
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dde1fd5c13b7364db283e73f1926a3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_278
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 138
+        width: 27
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e186ebf137b8243aa704f8e27c9860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_279
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 138
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a74b98e80264549bf9cdd65a29fa00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_280
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 138
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593afb7afd9ea874485bbe7b8f52cefe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_281
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 138
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55e71a7ed09fc04b999e9082aaf651d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_282
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 138
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d11388985962994b9c68c8d750440a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_283
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 138
+        width: 31
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c46fef5cf8b4e41a4434548df0100c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_284
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 138
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a05b0473ddbbfe42bc4c827f2e506cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_285
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 138
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69a91561efa27c4ca925b6369fcd618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_286
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 138
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bd87eec1f912b45b3d1d66e044ea57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_287
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 138
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e183ff988e487cc4e94b7d5f19e1a366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_288
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 138
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3651c2bfe545a469cdfb790f443e15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_289
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 138
+        width: 33
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79995f31aea6f7d4ba876ccca8710cdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_290
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 138
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e34df9c7e863a4a87f01931643722b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_291
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 35
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b052dd15aa67e3240935da27f18747c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_292
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 15
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f41bbfe06ca7ed4399ba394f3cd69c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_293
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 15
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5518835aae96f1349a9701966db70ea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_294
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 15
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ee792d436cb2a44be8aede9773775c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_295
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 15
+        width: 31
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fb6fefb43b77a4789202125894ff0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_296
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 15
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303b4c7cbb6bc54469cd0194d1fd2f4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_297
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 15
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164f2e5bbe24326499c262631a4ef2c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_298
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 15
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcfbc9d614b6a3418a7c4fe8f4b1af0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_299
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 15
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b0dd2402993c4d81e41cf3ee10887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_300
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 15
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21851aa9907654c4c93d770e2805158e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_301
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 15
+        width: 77
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5113f5cb657f5c84f84d4a873ceb4558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_302
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 15
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8869417de9e60914e9a5cf59bbe01667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_303
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 15
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91a8b826425437498fb685d56705252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_304
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 15
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b8281e0134b0f4f844013c3ea36837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_305
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 15
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627f7a2c4ba766f4099f05cc211cf337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_subz_306
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 15
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3542d06294878f46bed3f0d51a16084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f8465059e75b40749b67df108dbe730f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
