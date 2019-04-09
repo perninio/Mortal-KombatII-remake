@@ -7,16 +7,21 @@ public class Player : MonoBehaviour
 {
 
     InputManager inputManager;
+    Animator animationController;
 
-    [SerializeField] float playerSpeed = 20f;
+
+   [SerializeField] float playerSpeed = 10f;
 
     private void Awake()
     {
         inputManager = GetComponent<InputManager>();
+        animationController = GetComponent<Animator>();
     }
 
     void Update()
     {
+        animationController.SetBool("ismoving",inputManager.ismoving);
+
         transform.Translate(inputManager.CurrentInput * Time.deltaTime * playerSpeed);
     }
 }

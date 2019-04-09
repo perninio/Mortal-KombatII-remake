@@ -13,10 +13,13 @@ public class InputManager : MonoBehaviour
     }
 
     //[SerializeField] TouchButton upButton;
-   // [SerializeField] TouchButton downButton;
+    // [SerializeField] TouchButton downButton;
     [SerializeField] TouchButton leftButton;
     [SerializeField] TouchButton rightButton;
 
+    public bool rightside = true;
+    public bool btnrealeased = true;
+    public bool ismoving;
 
     public Vector2 CurrentInput
     {
@@ -32,15 +35,43 @@ public class InputManager : MonoBehaviour
         {
             if (leftButton.CurrentState == ButtonState.Held || leftButton.CurrentState == ButtonState.PressedDown)
             {
+                ismoving = true;
+                if (btnrealeased && rightside)
+                    Flip();
                 return -1;
             }
+
             else if (rightButton.CurrentState == ButtonState.Held || rightButton.CurrentState == ButtonState.PressedDown)
             {
+                ismoving = true;
+                if (btnrealeased && !rightside)
+                    Flip();
                 return 1;
             }
+            else if (rightButton.CurrentState == ButtonState.None || leftButton.CurrentState == ButtonState.None || rightButton.CurrentState == ButtonState.Released || leftButton.CurrentState == ButtonState.Released)
+            {
+                btnrealeased = true;
+                ismoving = false;
+                return 0;
+            }
             return Input.GetAxis("Horizontal");
+                
         }
+
+
     }
+    void Flip()
+    {
+        btnrealeased = false;
+        rightside = !rightside;
+        Vector3 theScale = transform.localScale;
+        theScale.x *= -1;
+        transform.localScale = theScale;
+    }
+
+
+
+
     /*
     float VerticalInput
     {

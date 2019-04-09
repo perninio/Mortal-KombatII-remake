@@ -6,8 +6,6 @@ public class TouchButton : MonoBehaviour
     bool pressedDown;
     bool pressedLastFrame;
 
-    public InputManager.ButtonState CurrentState;
-
     public void PressDown()
     {
         pressedDown = true;
@@ -18,6 +16,7 @@ public class TouchButton : MonoBehaviour
         pressedDown = false;
     }
 
+    public InputManager.ButtonState CurrentState;
     void Update()
     {
         // update the state based on the change since the last frame
