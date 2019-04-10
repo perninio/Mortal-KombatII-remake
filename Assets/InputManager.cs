@@ -12,20 +12,23 @@ public class InputManager : MonoBehaviour
         Held
     }
 
-    //[SerializeField] TouchButton upButton;
-    // [SerializeField] TouchButton downButton;
+
     [SerializeField] TouchButton leftButton;
     [SerializeField] TouchButton rightButton;
+    [SerializeField] TouchButton upButton;
+    [SerializeField] TouchButton downButton;
 
     public bool rightside = true;
     public bool btnrealeased = true;
     public bool ismoving;
+    public bool iskneeling = false;
+    public bool isjumping = false;
 
     public Vector2 CurrentInput
     {
         get
         {
-            return new Vector2(HorizontalInput, Input.GetAxis("Vertical"));//, VerticalInput);
+            return new Vector2(HorizontalInput, VerticalInput);//, VerticalInput);
         }
     }
 
@@ -60,6 +63,7 @@ public class InputManager : MonoBehaviour
 
 
     }
+    //Flip changes the x to -x so it reverse the object
     void Flip()
     {
         btnrealeased = false;
@@ -68,25 +72,29 @@ public class InputManager : MonoBehaviour
         theScale.x *= -1;
         transform.localScale = theScale;
     }
-
-
-
-
-    /*
+    
     float VerticalInput
     {
         get
         {
             if (upButton.CurrentState == ButtonState.Held || upButton.CurrentState == ButtonState.PressedDown)
             {
+                iskneeling = false;
+                isjumping = true;
                 return 1;
             }
             else if (downButton.CurrentState == ButtonState.Held || downButton.CurrentState == ButtonState.PressedDown)
             {
-                return -1;
+                iskneeling = true;
+                return 0;
+            }
+            else if (downButton.CurrentState == ButtonState.None ||downButton.CurrentState == ButtonState.Released|| upButton.CurrentState == ButtonState.Released || upButton.CurrentState == ButtonState.None )
+            {
+                iskneeling = false;
+                isjumping = false;
             }
             return Input.GetAxis("Vertical");
         }
     }
-    */
+    
 }

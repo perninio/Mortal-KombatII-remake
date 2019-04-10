@@ -21,6 +21,8 @@ public class Player : MonoBehaviour
     void Update()
     {
         animationController.SetBool("ismoving",inputManager.ismoving);
+        animationController.SetBool("iskneeling",inputManager.iskneeling);
+        animationController.SetBool("isjumping", inputManager.isjumping);
 
         transform.Translate(inputManager.CurrentInput * Time.deltaTime * playerSpeed);
     }
