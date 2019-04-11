@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class InputManager : MonoBehaviour
 {
     public enum ButtonState
@@ -17,12 +18,20 @@ public class InputManager : MonoBehaviour
     [SerializeField] TouchButton rightButton;
     [SerializeField] TouchButton upButton;
     [SerializeField] TouchButton downButton;
+    [SerializeField] TouchButton kickButton;
+    [SerializeField] TouchButton punchButton;
+    [SerializeField] TouchButton blockButton;
 
     public bool rightside = true;
     public bool btnrealeased = true;
-    public bool ismoving;
+    public bool ismoving=false;
+    public bool isblocking = false;//do zaimplementowania
+    public bool ispunching = false;//do zaimplementowania
+    public bool iskicking = false;//do zaimplementownia
     public bool iskneeling = false;
     public bool isjumping = false;
+    public float randNumber=0;
+
 
     public Vector2 CurrentInput
     {
@@ -73,6 +82,8 @@ public class InputManager : MonoBehaviour
         transform.localScale = theScale;
     }
     
+
+
     float VerticalInput
     {
         get
@@ -96,5 +107,32 @@ public class InputManager : MonoBehaviour
             return Input.GetAxis("Vertical");
         }
     }
-    
+    public void Update()
+    {
+       if (blockButton.CurrentState == ButtonState.Held || blockButton.CurrentState == ButtonState.PressedDown)
+        {
+            isblocking = true;
+        }
+       else if (blockButton.CurrentState == ButtonState.Released  || blockButton.CurrentState == ButtonState.None)
+        {
+            isblocking = false;
+        }
+       if (kickButton.CurrentState == ButtonState.Held ||kickButton.CurrentState == ButtonState.PressedDown)
+        {
+            iskicking = true;
+        }
+        else if (kickButton.CurrentState == ButtonState.Released || kickButton.CurrentState == ButtonState.None)
+        {
+            iskicking = false;
+        }
+        if (punchButton.CurrentState == ButtonState.Held || punchButton.CurrentState == ButtonState.PressedDown)
+        {
+            ispunching = true;
+        }
+        else if (punchButton.CurrentState == ButtonState.Released || punchButton.CurrentState == ButtonState.None)
+        {
+            ispunching = false;
+            randNumber=Random.Range(0f,1f);
+        }
+    }
 }
