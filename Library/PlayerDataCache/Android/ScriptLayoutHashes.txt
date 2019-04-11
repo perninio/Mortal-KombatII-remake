@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/boromir/Documents/Mortal-KombatII-remake/mortalKombatsterowanie2.1.apk
+C:/Users/boromir/Desktop/mortalKombatsterowanie2.1.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
@@ -121,7 +121,7 @@ b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.TextMeshPro.dll:TMPro.TMP_SpriteAnimator
 77b5b392291ad3027e7177d702923e9e Assembly-CSharp.dll:.Player
 4fd8bf02e3089425d3502e26c44ba31a Unity.TextMeshPro.dll:TMPro.TextContainer
-98884f253973d6f7e6849492d41bb691 Assembly-CSharp.dll:.InputManager
+b625b0160b39f44f6513976413c6f711 Assembly-CSharp.dll:.InputManager
 e6ae40841db498b6e673877ac45ad208 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 1dcb82730d983b77cec736c6ef19f814 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
