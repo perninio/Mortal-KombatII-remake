@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\GameMusicPlayer.cs" />
     <Compile Include="Assets\InputManager.cs" />
     <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\Player.cs" />
