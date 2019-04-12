@@ -28,6 +28,16 @@ public class Player : MonoBehaviour
         animationController.SetBool("iskicking",inputManager.iskicking);
         animationController.SetBool("ispunching", inputManager.ispunching);
         animationController.SetFloat("punch1", inputManager.randNumber);
+        whenactionstopmoving();
         transform.Translate(inputManager.CurrentInput * Time.deltaTime * playerSpeed);
+
+    }
+
+    private void whenactionstopmoving()
+    {
+        if (inputManager.iskneeling == true || inputManager.iskicking == true || inputManager.ispunching == true)
+            playerSpeed = 0;
+        else
+            playerSpeed = 10;
     }
 }
