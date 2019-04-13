@@ -7,11 +7,13 @@ public class MainMenu : MonoBehaviour
 {
 
     public static bool canvas = false;
+    public static bool roundonefight=false;
 
     public void PlayGame()
     {
         SceneManager.LoadScene("game");
         canvas = true;
+        roundonefight = true;
     }
    public void QuitGame()
     {

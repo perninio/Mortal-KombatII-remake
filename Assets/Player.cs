@@ -13,19 +13,28 @@ public class Player : MonoBehaviour
    [SerializeField] float playerSpeed = 10f;
     
    [SerializeField]public GameObject canvaseControls;
+   public AudioSource audioData;
+
 
     private void Awake()
     {
         inputManager = GetComponent<InputManager>();
         animationController = GetComponent<Animator>();
-       
+        audioData = GetComponent<AudioSource>();
+      
+
     }
 
     void Update()
     {
         if (MainMenu.canvas)
             canvaseControls.SetActive(true);
-
+        if(MainMenu.roundonefight)
+        {
+            audioData.Play(0);
+            Debug.Log("started");
+            MainMenu.roundonefight = false;
+        }
         animationController.SetBool("ismoving",inputManager.ismoving);
         animationController.SetBool("iskneeling",inputManager.iskneeling);
         animationController.SetBool("isjumping", inputManager.isjumping);

@@ -125,7 +125,7 @@ GameObject:
   - component: {fileID: 347014171}
   m_Layer: 0
   m_Name: audio
-  m_TagString: Untagged
+  m_TagString: music
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -152,11 +152,11 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 02884ce7a2ba27a499324536c7aa271a, type: 3}
+  m_audioClip: {fileID: 8300000, guid: f21694f1a4909e244bd026c37a749a61, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.222
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -289,8 +289,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -2.149994, y: 0.5}
-  m_SizeDelta: {x: -474, y: 180}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: -584.5, y: 180}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &387879355
 MonoBehaviour:
@@ -991,8 +991,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 638.7, y: 285}
+  m_AnchoredPosition: {x: -5.3, y: 0.0000030994}
+  m_SizeDelta: {x: 817.7, y: 298}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1751449649
 MonoBehaviour:
