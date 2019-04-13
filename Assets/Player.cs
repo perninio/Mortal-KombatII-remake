@@ -14,6 +14,7 @@ public class Player : MonoBehaviour
    [SerializeField]public GameObject canvaseControls;
 
 
+
     private void Awake()
     {
         inputManager = GetComponent<InputManager>();
@@ -25,7 +26,10 @@ public class Player : MonoBehaviour
     void Update()
     {
         if (MainMenu.canvas)
+        {
+            MainMenu.canvas = false;
             canvaseControls.SetActive(true);
+        }        
 
         animationController.SetBool("ismoving",inputManager.ismoving);
         animationController.SetBool("iskneeling",inputManager.iskneeling);

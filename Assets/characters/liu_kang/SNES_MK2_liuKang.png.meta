@@ -1,7 +1,276 @@
 fileFormatVersion: 2
 guid: 6776f7696d3910847966996681a93a28
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: SNES_MK2_liuKang_0
+    21300002: SNES_MK2_liuKang_1
+    21300004: SNES_MK2_liuKang_2
+    21300006: SNES_MK2_liuKang_3
+    21300008: SNES_MK2_liuKang_4
+    21300010: SNES_MK2_liuKang_5
+    21300012: SNES_MK2_liuKang_6
+    21300014: SNES_MK2_liuKang_7
+    21300016: SNES_MK2_liuKang_8
+    21300018: SNES_MK2_liuKang_9
+    21300020: SNES_MK2_liuKang_10
+    21300022: SNES_MK2_liuKang_11
+    21300024: SNES_MK2_liuKang_12
+    21300026: SNES_MK2_liuKang_13
+    21300028: SNES_MK2_liuKang_14
+    21300030: SNES_MK2_liuKang_15
+    21300032: SNES_MK2_liuKang_16
+    21300034: SNES_MK2_liuKang_17
+    21300036: SNES_MK2_liuKang_18
+    21300038: SNES_MK2_liuKang_19
+    21300040: SNES_MK2_liuKang_20
+    21300042: SNES_MK2_liuKang_21
+    21300044: SNES_MK2_liuKang_22
+    21300046: SNES_MK2_liuKang_23
+    21300048: SNES_MK2_liuKang_24
+    21300050: SNES_MK2_liuKang_25
+    21300052: SNES_MK2_liuKang_26
+    21300054: SNES_MK2_liuKang_27
+    21300056: SNES_MK2_liuKang_28
+    21300058: SNES_MK2_liuKang_29
+    21300060: SNES_MK2_liuKang_30
+    21300062: SNES_MK2_liuKang_31
+    21300064: SNES_MK2_liuKang_32
+    21300066: SNES_MK2_liuKang_33
+    21300068: SNES_MK2_liuKang_34
+    21300070: SNES_MK2_liuKang_35
+    21300072: SNES_MK2_liuKang_36
+    21300074: SNES_MK2_liuKang_37
+    21300076: SNES_MK2_liuKang_38
+    21300078: SNES_MK2_liuKang_39
+    21300080: SNES_MK2_liuKang_40
+    21300082: SNES_MK2_liuKang_41
+    21300084: SNES_MK2_liuKang_42
+    21300086: SNES_MK2_liuKang_43
+    21300088: SNES_MK2_liuKang_44
+    21300090: SNES_MK2_liuKang_45
+    21300092: SNES_MK2_liuKang_46
+    21300094: SNES_MK2_liuKang_47
+    21300096: SNES_MK2_liuKang_48
+    21300098: SNES_MK2_liuKang_49
+    21300100: SNES_MK2_liuKang_50
+    21300102: SNES_MK2_liuKang_51
+    21300104: SNES_MK2_liuKang_52
+    21300106: SNES_MK2_liuKang_53
+    21300108: SNES_MK2_liuKang_54
+    21300110: SNES_MK2_liuKang_55
+    21300112: SNES_MK2_liuKang_56
+    21300114: SNES_MK2_liuKang_57
+    21300116: SNES_MK2_liuKang_58
+    21300118: SNES_MK2_liuKang_59
+    21300120: SNES_MK2_liuKang_60
+    21300122: SNES_MK2_liuKang_61
+    21300124: SNES_MK2_liuKang_62
+    21300126: SNES_MK2_liuKang_63
+    21300128: SNES_MK2_liuKang_64
+    21300130: SNES_MK2_liuKang_65
+    21300132: SNES_MK2_liuKang_66
+    21300134: SNES_MK2_liuKang_67
+    21300136: SNES_MK2_liuKang_68
+    21300138: SNES_MK2_liuKang_69
+    21300140: SNES_MK2_liuKang_70
+    21300142: SNES_MK2_liuKang_71
+    21300144: SNES_MK2_liuKang_72
+    21300146: SNES_MK2_liuKang_73
+    21300148: SNES_MK2_liuKang_74
+    21300150: SNES_MK2_liuKang_75
+    21300152: SNES_MK2_liuKang_76
+    21300154: SNES_MK2_liuKang_77
+    21300156: SNES_MK2_liuKang_78
+    21300158: SNES_MK2_liuKang_79
+    21300160: SNES_MK2_liuKang_80
+    21300162: SNES_MK2_liuKang_81
+    21300164: SNES_MK2_liuKang_82
+    21300166: SNES_MK2_liuKang_83
+    21300168: SNES_MK2_liuKang_84
+    21300170: SNES_MK2_liuKang_85
+    21300172: SNES_MK2_liuKang_86
+    21300174: SNES_MK2_liuKang_87
+    21300176: SNES_MK2_liuKang_88
+    21300178: SNES_MK2_liuKang_89
+    21300180: SNES_MK2_liuKang_90
+    21300182: SNES_MK2_liuKang_91
+    21300184: SNES_MK2_liuKang_92
+    21300186: SNES_MK2_liuKang_93
+    21300188: SNES_MK2_liuKang_94
+    21300190: SNES_MK2_liuKang_95
+    21300192: SNES_MK2_liuKang_96
+    21300194: SNES_MK2_liuKang_97
+    21300196: SNES_MK2_liuKang_98
+    21300198: SNES_MK2_liuKang_99
+    21300200: SNES_MK2_liuKang_100
+    21300202: SNES_MK2_liuKang_101
+    21300204: SNES_MK2_liuKang_102
+    21300206: SNES_MK2_liuKang_103
+    21300208: SNES_MK2_liuKang_104
+    21300210: SNES_MK2_liuKang_105
+    21300212: SNES_MK2_liuKang_106
+    21300214: SNES_MK2_liuKang_107
+    21300216: SNES_MK2_liuKang_108
+    21300218: SNES_MK2_liuKang_109
+    21300220: SNES_MK2_liuKang_110
+    21300222: SNES_MK2_liuKang_111
+    21300224: SNES_MK2_liuKang_112
+    21300226: SNES_MK2_liuKang_113
+    21300228: SNES_MK2_liuKang_114
+    21300230: SNES_MK2_liuKang_115
+    21300232: SNES_MK2_liuKang_116
+    21300234: SNES_MK2_liuKang_117
+    21300236: SNES_MK2_liuKang_118
+    21300238: SNES_MK2_liuKang_119
+    21300240: SNES_MK2_liuKang_120
+    21300242: SNES_MK2_liuKang_121
+    21300244: SNES_MK2_liuKang_122
+    21300246: SNES_MK2_liuKang_123
+    21300248: SNES_MK2_liuKang_124
+    21300250: SNES_MK2_liuKang_125
+    21300252: SNES_MK2_liuKang_126
+    21300254: SNES_MK2_liuKang_127
+    21300256: SNES_MK2_liuKang_128
+    21300258: SNES_MK2_liuKang_129
+    21300260: SNES_MK2_liuKang_130
+    21300262: SNES_MK2_liuKang_131
+    21300264: SNES_MK2_liuKang_132
+    21300266: SNES_MK2_liuKang_133
+    21300268: SNES_MK2_liuKang_134
+    21300270: SNES_MK2_liuKang_135
+    21300272: SNES_MK2_liuKang_136
+    21300274: SNES_MK2_liuKang_137
+    21300276: SNES_MK2_liuKang_138
+    21300278: SNES_MK2_liuKang_139
+    21300280: SNES_MK2_liuKang_140
+    21300282: SNES_MK2_liuKang_141
+    21300284: SNES_MK2_liuKang_142
+    21300286: SNES_MK2_liuKang_143
+    21300288: SNES_MK2_liuKang_144
+    21300290: SNES_MK2_liuKang_145
+    21300292: SNES_MK2_liuKang_146
+    21300294: SNES_MK2_liuKang_147
+    21300296: SNES_MK2_liuKang_148
+    21300298: SNES_MK2_liuKang_149
+    21300300: SNES_MK2_liuKang_150
+    21300302: SNES_MK2_liuKang_151
+    21300304: SNES_MK2_liuKang_152
+    21300306: SNES_MK2_liuKang_153
+    21300308: SNES_MK2_liuKang_154
+    21300310: SNES_MK2_liuKang_155
+    21300312: SNES_MK2_liuKang_156
+    21300314: SNES_MK2_liuKang_157
+    21300316: SNES_MK2_liuKang_158
+    21300318: SNES_MK2_liuKang_159
+    21300320: SNES_MK2_liuKang_160
+    21300322: SNES_MK2_liuKang_161
+    21300324: SNES_MK2_liuKang_162
+    21300326: SNES_MK2_liuKang_163
+    21300328: SNES_MK2_liuKang_164
+    21300330: SNES_MK2_liuKang_165
+    21300332: SNES_MK2_liuKang_166
+    21300334: SNES_MK2_liuKang_167
+    21300336: SNES_MK2_liuKang_168
+    21300338: SNES_MK2_liuKang_169
+    21300340: SNES_MK2_liuKang_170
+    21300342: SNES_MK2_liuKang_171
+    21300344: SNES_MK2_liuKang_172
+    21300346: SNES_MK2_liuKang_173
+    21300348: SNES_MK2_liuKang_174
+    21300350: SNES_MK2_liuKang_175
+    21300352: SNES_MK2_liuKang_176
+    21300354: SNES_MK2_liuKang_177
+    21300356: SNES_MK2_liuKang_178
+    21300358: SNES_MK2_liuKang_179
+    21300360: SNES_MK2_liuKang_180
+    21300362: SNES_MK2_liuKang_181
+    21300364: SNES_MK2_liuKang_182
+    21300366: SNES_MK2_liuKang_183
+    21300368: SNES_MK2_liuKang_184
+    21300370: SNES_MK2_liuKang_185
+    21300372: SNES_MK2_liuKang_186
+    21300374: SNES_MK2_liuKang_187
+    21300376: SNES_MK2_liuKang_188
+    21300378: SNES_MK2_liuKang_189
+    21300380: SNES_MK2_liuKang_190
+    21300382: SNES_MK2_liuKang_191
+    21300384: SNES_MK2_liuKang_192
+    21300386: SNES_MK2_liuKang_193
+    21300388: SNES_MK2_liuKang_194
+    21300390: SNES_MK2_liuKang_195
+    21300392: SNES_MK2_liuKang_196
+    21300394: SNES_MK2_liuKang_197
+    21300396: SNES_MK2_liuKang_198
+    21300398: SNES_MK2_liuKang_199
+    21300400: SNES_MK2_liuKang_200
+    21300402: SNES_MK2_liuKang_201
+    21300404: SNES_MK2_liuKang_202
+    21300406: SNES_MK2_liuKang_203
+    21300408: SNES_MK2_liuKang_204
+    21300410: SNES_MK2_liuKang_205
+    21300412: SNES_MK2_liuKang_206
+    21300414: SNES_MK2_liuKang_207
+    21300416: SNES_MK2_liuKang_208
+    21300418: SNES_MK2_liuKang_209
+    21300420: SNES_MK2_liuKang_210
+    21300422: SNES_MK2_liuKang_211
+    21300424: SNES_MK2_liuKang_212
+    21300426: SNES_MK2_liuKang_213
+    21300428: SNES_MK2_liuKang_214
+    21300430: SNES_MK2_liuKang_215
+    21300432: SNES_MK2_liuKang_216
+    21300434: SNES_MK2_liuKang_217
+    21300436: SNES_MK2_liuKang_218
+    21300438: SNES_MK2_liuKang_219
+    21300440: SNES_MK2_liuKang_220
+    21300442: SNES_MK2_liuKang_221
+    21300444: SNES_MK2_liuKang_222
+    21300446: SNES_MK2_liuKang_223
+    21300448: SNES_MK2_liuKang_224
+    21300450: SNES_MK2_liuKang_225
+    21300452: SNES_MK2_liuKang_226
+    21300454: SNES_MK2_liuKang_227
+    21300456: SNES_MK2_liuKang_228
+    21300458: SNES_MK2_liuKang_229
+    21300460: SNES_MK2_liuKang_230
+    21300462: SNES_MK2_liuKang_231
+    21300464: SNES_MK2_liuKang_232
+    21300466: SNES_MK2_liuKang_233
+    21300468: SNES_MK2_liuKang_234
+    21300470: SNES_MK2_liuKang_235
+    21300472: SNES_MK2_liuKang_236
+    21300474: SNES_MK2_liuKang_237
+    21300476: SNES_MK2_liuKang_238
+    21300478: SNES_MK2_liuKang_239
+    21300480: SNES_MK2_liuKang_240
+    21300482: SNES_MK2_liuKang_241
+    21300484: SNES_MK2_liuKang_242
+    21300486: SNES_MK2_liuKang_243
+    21300488: SNES_MK2_liuKang_244
+    21300490: SNES_MK2_liuKang_245
+    21300492: SNES_MK2_liuKang_246
+    21300494: SNES_MK2_liuKang_247
+    21300496: SNES_MK2_liuKang_248
+    21300498: SNES_MK2_liuKang_249
+    21300500: SNES_MK2_liuKang_250
+    21300502: SNES_MK2_liuKang_251
+    21300504: SNES_MK2_liuKang_252
+    21300506: SNES_MK2_liuKang_253
+    21300508: SNES_MK2_liuKang_254
+    21300510: SNES_MK2_liuKang_255
+    21300512: SNES_MK2_liuKang_256
+    21300514: SNES_MK2_liuKang_257
+    21300516: SNES_MK2_liuKang_258
+    21300518: SNES_MK2_liuKang_259
+    21300520: SNES_MK2_liuKang_260
+    21300522: SNES_MK2_liuKang_261
+    21300524: SNES_MK2_liuKang_262
+    21300526: SNES_MK2_liuKang_263
+    21300528: SNES_MK2_liuKang_264
+    21300530: SNES_MK2_liuKang_265
+    21300532: SNES_MK2_liuKang_266
+    21300534: SNES_MK2_liuKang_267
+    21300536: SNES_MK2_liuKang_268
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -40,7 +309,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +338,5411 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2385
+        width: 43
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45da166aadaf11940978f38da299303b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2385
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2cf0d8a0048ae438b9a805b02507ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2385
+        width: 44
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39a3c2a7b342ad40b7f9c03a52c69d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2385
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2277dfed02fc2f4eb376b3dc3dc9514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2385
+        width: 45
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e6aa682d6c7794487cff30a6221d9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2385
+        width: 44
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b539c24e5c00f45b6f90e3cc21a203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2385
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d8c2744b7ffb147b145026c02c5a0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2385
+        width: 43
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9f5a8b77c43ec49a1551f68cb7e970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2385
+        width: 41
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dd1d646f32d9b48800312dcc2a7452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_9
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2385
+        width: 38
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddac3d7ae5acb4949b728c30623c2d8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_10
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2385
+        width: 38
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01792e52ea8d3345860b250d973e60c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_11
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2385
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4d6a38acc5e4548ba2664c50ebaf8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_12
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2385
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd82ac1cafcbe1d4485c1fc34a787212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_13
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 2385
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260e2e7428572ec489393992b1dd4c4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_14
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2385
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d42f541201a7674f9f69d7bbef411dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_15
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2385
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6e6dab490f35f49aec0cdb0169f535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_16
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2385
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f7377a73a5f48469e185d957249ef2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2252
+        width: 44
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56accb6f871d98b4e83062340e3cc2c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2252
+        width: 45
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888f234982255734a808de02a9d98acc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2252
+        width: 45
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c854fd2bb1995784c9f991d1b453134f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2252
+        width: 45
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983bd34e979d6b340a05d82a9de1537a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2252
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a51e4293fb624f4a9a6c4f10eb5f5cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_22
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2252
+        width: 44
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01fadb37d24d1e45939d9fd1436ef3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2252
+        width: 44
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2111bec452b98244a060a299e075606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2252
+        width: 47
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f799d3ca213814e9c1485b8a356df1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_25
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2252
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e893e615d643a740a77e2c7db6ae0a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_26
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2252
+        width: 51
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3840a645a3eab434a82659cfb3cbe91a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_27
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2252
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c57480b5f3eda14db556a2042f892eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_28
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2252
+        width: 45
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a0860c2708984580b4a6c5d0ec655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_29
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2252
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26b037e06a319e4188e2f26a5a66f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_30
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2252
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de61ded3f8ff31f4d8df89ea9890facc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_31
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2252
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c94ce4a9b30e674694e67890b8f8b45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_32
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2252
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187a4fb6656eb294f84f3d35d50ce2a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_33
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2252
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0288455e956ab94b8526e09ed1589d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_34
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 2252
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6985c4d8a72f8244da3abc986f8c39e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_35
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2252
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eb8f5f70fe04d4985ae179000c6922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2119
+        width: 34
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f13584c39f51c44194ecdaec8f3a1ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2119
+        width: 78
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2f7b472dd847249a146b26a0d5485b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2119
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30b5b4e84d46e344a4f312850fd6d37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_39
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2119
+        width: 36
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845c48b10bf5a0f46a5c8e93e1865087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_40
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2119
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82af509c24dd499498e7bffe77048e73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2119
+        width: 34
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37bde82ee112674ba3fb9d63d011515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2004
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cbda0efa0f31c44a93a2734b062374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_43
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2004
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1875fabfbefb94d92206c7fc6e81f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2004
+        width: 53
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4cfb65e70afc14f9494384009c0e20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_45
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2004
+        width: 49
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357213676bde53d4fbf164f366fef73e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_46
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2004
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebfef7f894726e40aba1a0a8e5b40c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_47
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2004
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af75560a7fcfec042859a40c59519928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_48
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2004
+        width: 32
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8a5e09cfb62c24fbaf4871270b1cbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_49
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2004
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7b51a5ab0fd014cba6a0706fb52489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_50
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2004
+        width: 65
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b27a2630a120294c991cbf5eb59c297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_51
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2004
+        width: 51
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413171944bdaca4429403427818529b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_52
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2004
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f436ac6a4da5aa14ca5d18b7eeb7224e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_53
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2004
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee45bfdc918cc1b4482165c0b11efe9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_54
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1889
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bf6ecee2d00ec409ade8cc2336e0a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1889
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ab2c381b0e8b149a30dacef790d2f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_56
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1889
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b884284b0532d314e93cc86baf7305e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_57
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1889
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c05d2fe9e83d214392fed52ff7db360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_58
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1889
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5bfe4ad91cd004d8b466328046840a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_59
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1889
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08053abb581f29148a0f07097f2660af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_60
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1889
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64d8e91de2ac6c4d92ca71b1c10f239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_61
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1889
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988fc94769936c944a79cc688d0ae9bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_62
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1889
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92d1330b15397e4f8d61aeee2231c67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_63
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1889
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e8fe7b335036b4ab2f4fcfe23eeb31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_64
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1889
+        width: 49
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31ae6f55766dfc459a642d17647b46b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_65
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1776
+        width: 40
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42b20a15d0b629408426708b38c56e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_66
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1776
+        width: 43
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf139e0254ebb84f92835c0caa5f017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1776
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d609f83d05bae6f44a1a5adc903a7adb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_68
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1776
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4345916253d6ea489519a5828f1d6e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_69
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1776
+        width: 42
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cbe2912c416aa468653fec45fc1d03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1776
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c0498c18c34974081893f027921d5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_71
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1776
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345f3caf0fd3d314eb8afe4401eb008d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_72
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1776
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbffed8c55266947a4819d4d9b452e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_73
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1776
+        width: 36
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab91aa777cba43e41aa89b1ba5861cba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_74
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1776
+        width: 43
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdb9c896fb53f34b9aa5e8a1a0cb2ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_75
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1666
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63419313ddcffa4e9c3bb6967435d3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_76
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1666
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f8c4f7595af7b408dbfff1acc81f51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_77
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1666
+        width: 63
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52868029d54035642a315e4aa7ff52c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_78
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1666
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a4ffabdb16e534ab144e20d5d402de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_79
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1666
+        width: 31
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1528d17cf0b053d47ae7d0e0e8e4f94e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_80
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1666
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032a63438e6f69f4c84b7763b5034415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1666
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b64d375da598a4eb6ddd32e1140740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_82
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1666
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94756b0c746609c4bbaa35977b9019a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_83
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1666
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e75d47489e878540916eba1938c6f97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_84
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1666
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b6391d10eda494785c2eebe1714067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_85
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1546
+        width: 38
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d712d9ec356c06d488cf79f321e55050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_86
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1546
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412de1c4df92a0f47b8b13ef34ac10ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_87
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1546
+        width: 59
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea56da61d423fb449991779599dba2fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_88
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1546
+        width: 45
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfe4b81ee9ef6649b63f50dbba163f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_89
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1546
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014023feb9635eb4b983550d82347367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_90
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1546
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4865b1f6bbcf5824880afef210a33775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_91
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1546
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dacfa6f499c16449821b6fa69abdea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_92
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1546
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab410c577a039504da51158dbeb50fbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_93
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1546
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02357e44273019543a5c8ae9439ab7b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_94
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1546
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41608e62c69ae674ea942e82db0846d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_95
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1546
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1d728dde4794a409e96bcd7935b18e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_96
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1436
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9f9909d314bcb428624dd6ce587689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_97
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1436
+        width: 94
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccfd8ba30c93854f9c0f1181b908ba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_98
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1436
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7567ad746e7a0f14897d7f8775837512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_99
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1436
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3964c8ff13c6dc3418c64a0f055bce5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_100
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1436
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5168163277b18a4abb796059ba89931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_101
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1323
+        width: 40
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478e9c04d9f6070408a5079d39bd51df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_102
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1323
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672557baba5bbea498e46b8603db42c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1323
+        width: 41
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04c8b192acc9d544b24d06457d62127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_104
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1323
+        width: 42
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d86c7131eb9919439c9750b2094d003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_105
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1323
+        width: 42
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57031da4468d0e40b1daee995bf89dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_106
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1323
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22002fb7835cf8f4da3b6c79007a2241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_107
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1323
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f836e7d3f7bf04483b12afaef56dc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_108
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1323
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5e93fa57c73a945bc8bf14d7fd1f56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_109
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1323
+        width: 39
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709f48b00a1a4b64d83f0c6a30f47aee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_110
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1323
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c603100bb1fa84782a92c0aac51545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_111
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1323
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44638df3a0c30a48943e15a09d1e1e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_112
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1323
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73444a730b92c24f9f65ea1860c633c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_113
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1206
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72ca42149378d146a31c6f6ea56a340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_114
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1206
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee0074ae58674c4e8eb52f2e486e419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_115
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1206
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410e805a0bb071145a9e4a91a47afdb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_116
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1206
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43904939b8bf7b149af02a601ec817ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_117
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1206
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acbc8d7ab2e1e94c8fd17656b3331c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_118
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1206
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd45bfc0e0619a6428c710859eff0127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_119
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1206
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efdc9e6165629d4abc197417550a14d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_120
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1206
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc9fd37c9c28bb4e8b3fa3118310a21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_121
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1206
+        width: 63
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32293b7907a2e1498c6d480311ac7fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_122
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1206
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1cd0c43c5d35445a6f8315f9a6c164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_123
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1206
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64075efba58de5488f8cee98dade882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_124
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1206
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60871871900eade46a689871fe053082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_125
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1206
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1afcc3d6b22a145be8d73f89bd76c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_126
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1206
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8580a485321f4f343bafeedba5753f7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_127
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1095
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c10dcdbecd8b6f44945354a52f8cbc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_128
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1095
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0025809a27b5b86419a0e9188537401d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_129
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1095
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d9352bf9c154b4d9907927fa4a2754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_130
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1095
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982a3f2b6fd45f8438c5c3232df215cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_131
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1095
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d8ff874a4e61140945a847bc2f7336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_132
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1095
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84c553620735fe458fd45ff5c3939b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_133
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1095
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5b9068067af024ea85c504506dfed8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_134
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1095
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4674951996388824982ea844611e36a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_135
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1095
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021073713e4d596468013a04bad3983e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_136
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1095
+        width: 37
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85877e8f01ebaed44a5a385c4de83edf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_137
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1095
+        width: 36
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf16a601e7749224ba7296bd0caa91a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_138
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1095
+        width: 37
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a271a67a8120849aa2c827f4a186fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_139
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1095
+        width: 37
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d33f34ea9e53f4dbedfe1a989c01c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_140
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1095
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653bca5d12c705543b7c8a66a173457a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_141
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1095
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce76a8ee59de2746ba0d5fca8aa748b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_142
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 988
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e4b86bf69946347adc88830896e1cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_143
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 988
+        width: 37
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836c1ee931319534fba5f8e76f584bc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_144
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 988
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a343a39436b853b4d9a0f07e019cb072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_145
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 988
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac181096bc2b95e48a962960a30c6c51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_146
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 988
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3409947047a88b44bb3d62d3ab41dba3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_147
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 988
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955b39a2941f1ce43a0f0139b1640205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_148
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 988
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3975859c94dcf0b45be6b532cb512376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_149
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 988
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02685cfbfa0fb204abd7d4c82e29d761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_150
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1015
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510e09b187956fb44983a1f4163adb6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_151
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 988
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05a73e714fc6da4ca3c10edf241b766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_152
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 988
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77902887f085f4d42aeef4e7d4b37973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_153
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 988
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219f005de62536043abfaf118216d090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_154
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1008
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ee3a280975e7546b5ca923e1295402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_155
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 988
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffee68cfff02154e86faf9b21ca20e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_156
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 989
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d31b15f86dfd94ab1df9fc4b8a0dd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_157
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 988
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c9aaf6e929c484f889efd4ec93a45f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_158
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 988
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0038fb34913244e88a9d62d8dd3e66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_159
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1009
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d172883993d374ba9ba0f67353501a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_160
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 988
+        width: 69
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb65301cd89ce247846bc6ea6452a86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_161
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 988
+        width: 92
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98ccc79db3d71e4b972085f1245cd6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_162
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 988
+        width: 116
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cbcf0d711eea14a9e81e92e20435df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_163
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 988
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098a36b7532213c4bafa03e2e68d48e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_164
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 988
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059990957ba3ee242ac8549a502aa957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_165
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 988
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85857b551837e724c98a3148bbdab2dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_166
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 995
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574cd37a4963a274c8268e777d46752e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_167
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 988
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98671e3bc82b34649a1963ce2ae46671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_168
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 989
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817b57ba716a833428a722b24ccaed5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_169
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 924
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a31a482daba674da758de6752b1816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_170
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 924
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55adac8b3c696014b9ec3341c3e0d582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_171
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 924
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afde62d55ba38546b03fa3845344747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_172
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 924
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e3c763167ca4c4082e53999eddcd95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_173
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 924
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea2924927703f94291ecec236bbbe9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_174
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 924
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cb34a1d8e2e2346ba454b6809316b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_175
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 803
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f8e982289489741a33e30b78a1f19a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_176
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 803
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bd8c74e99313b4daa7b0e9bb3f6d92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_177
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 803
+        width: 53
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbb98a4c2a3dd947b5432f3baac6824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_178
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 803
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ac25c878e871b41a925a4fb49e1ce6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_179
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 803
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0af7f413fa867469d9788d3ee9ca6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_180
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 803
+        width: 46
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8a72244851b0a4597ca4b88b9bdf83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_181
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 803
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc8d135acb952b4c8a252996774bae9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_182
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 803
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141eefb4b077dbe4db8e1371c02f0da0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_183
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 803
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bbf33ae681c6c46a0c29a45ed15ca5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_184
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 803
+        width: 38
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3f2af1c0b9ce440a0001f0c217ffff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_185
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 803
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b34c1a027ba1e44920a5dfcc670469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_186
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 803
+        width: 59
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe23346835b5a248a7deb59130c30ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_187
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 803
+        width: 45
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da15027b33bb4c4bb45bb14c284043d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_188
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 622
+        width: 45
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8269834f3d89c1840b2c33be3751bfa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_189
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 622
+        width: 48
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4fe0427e835df4fa0593ad57b74460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_190
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 622
+        width: 73
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f901a7b20a4c3a488fb674f7066f9fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_191
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 622
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f40de62b263fc4a8b80e2764284836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_192
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 622
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740c34dc7c56a9b4992aa9a095f08bf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_193
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 622
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616a862474f9e2d4389e314b74f20fd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_194
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 622
+        width: 104
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7764b160c8c55a448a02562095507dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_195
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 622
+        width: 95
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e68dc67b46cb343a4348360e833383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_196
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 622
+        width: 93
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c60aa3441c71345806a34184208ee5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_197
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 457
+        width: 107
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1abc13b096811409a4665655db30d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_198
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 457
+        width: 122
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572421c8edd798e4ab24a1333c8ea81e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_199
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 457
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856a7030939b97478c41c42e604a586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_200
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 457
+        width: 48
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e4167fcc5e3ca41b52104b7d58ac17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_201
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 457
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83786271cbf312242af33a70050a7090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_202
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 457
+        width: 45
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26776aa67adf37049b0072e88838f4fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_203
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 457
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a272844300d77249ad90e59b9f270ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_204
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 457
+        width: 48
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99050cad95727c847bde6852500faac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_205
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 457
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840cbc66dba98734db38cf097be63c7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_206
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 457
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f57adfd0378c045a1c05be7c9445ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_207
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 457
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d493421fa128594bbb1e860cf47b0dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_208
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 457
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfbaee085aa78648a6409ec0e9f256d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_209
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 457
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d237390f9ed37404e95acfd597ede897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_210
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 457
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be6161099a1649449a8b52e7e339ecb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_211
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 360
+        width: 21
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f380bed2e7b32a3479cb92e19fe1db6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_212
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 360
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1180d352efe9f640a358ee9135e7a0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_213
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 360
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c47b06566087f46a75551b7c446d6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_214
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 360
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f47eddf84d66394b8d5cea083211a12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_215
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 360
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e58df29ce732264e89e8256ee5bec21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_216
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 360
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfed345c47f59e746a493c20748c14fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_217
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 360
+        width: 25
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815208ead100f4946b2f2d8ebfa31cd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_218
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 360
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53c03f0667f0c84bb7b1fa23d1d33c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_219
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 360
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04df6a80965a2643823cbc272b8b40b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_220
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 360
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1be6f803d0ffd347b7c1a9d2d679568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_221
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 360
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd85f7e6120c684f9b2a9136df8cb52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_222
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 360
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb1d79a0de08c745b95c222fdb5a98f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_223
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 360
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdaf748592821a4a8c5b6cc95b6b421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_224
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 360
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bc07898f04759409b3ae060752da18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_225
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 360
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765a151740ae6a14d9a8cb93666e29b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_226
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 360
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f00d3944f0a2c841aa7995baf0b1c0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_227
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 360
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417afe70e026a6f4b856d5267b62cc3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_228
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 360
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cf89b71fc1ea74795cb46abd199997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_229
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 360
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f496c7fa11285824797963575a47a56f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_230
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 360
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7569c9277829040ac5e9fe79febabf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_231
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 249
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7696e1205bf9633408ff65edadcd591d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_232
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 249
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149ef21e0f581224baa8d1e8a7ba0c51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_233
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 249
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6d6df1bd227034f9ce60bbe35be77f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_234
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 249
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dee723385ebcdc4dabec03ecdebf06e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_235
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 249
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ee428e494586a42b01c0114cccd92c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_236
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 249
+        width: 96
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d93d440aa5d944e919a320bc61608f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_237
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 249
+        width: 108
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8845eb7e0874ee04dada1d4b3bf39d9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_238
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 249
+        width: 123
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc2fcdd5114f2f4591a581896f02442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_239
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 249
+        width: 37
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77666a59366236b48a0bfb1a89aa490e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_240
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 249
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adff592955d400e489f8bb6dfb4fa437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_241
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 249
+        width: 32
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e2c392579289d47aa9d882a4d00d57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_242
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 249
+        width: 33
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347d73babf0ab2a429ea0013c50b0fe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_243
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 249
+        width: 33
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3d006287c324a42b3874b44abf0248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_244
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 249
+        width: 33
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b980a01f44c4946875061d94132de2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_245
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 249
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78c0d4a09598ad40ae6fd7859706f7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_246
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 133
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc85e5c3a4e46ff439e47e027c908c3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_247
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 133
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2b26a9af0b7e045a896ab27b8cbe10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_248
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 133
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53871d42c42b5214eacc3d5291b7bbe1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_249
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 133
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d356b57d333389740bff54eaec404819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_250
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 133
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528e371195991c540b9d3ec3ed56ee28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_251
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 133
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2302eac05007f46965588cd8a5ce1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_252
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 133
+        width: 81
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ede6b7a7c51a6a4da37482590b7ce62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_253
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 133
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736308c67a420074f94ac658828b89bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_254
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 133
+        width: 34
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb66b4c515d56247826db4f40888c37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_255
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 133
+        width: 26
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955dfbc55ee3d6042b297b8b4bedb61d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_256
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 133
+        width: 30
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d9116b262e9c5469f8c8c3940fe299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_257
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 133
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5974af3bfa3d745448b054d4b74d63b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_258
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 133
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd17f1d0b8dee2f49aa82ab14da50041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_259
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 133
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0517ef4078692e740bccd3234d5ddf3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_260
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 133
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b817b6255e020e4cba6b719b2e6c4e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_261
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 133
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fa84ee831021747a6d361096bbec98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_262
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 26
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321e849659b267d4ab9a600db46053f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_263
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 14
+        width: 29
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff8ce52925d42742a9653442873dc80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_264
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 14
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10a61f502215f24e8f743138525f701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_265
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 14
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771c3eaa7874f264fb00dd3480383010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_266
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 14
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41039ad87893af84a898aaf26a95e38a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_267
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 14
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f358b646e23c044ba7091957c1a402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_MK2_liuKang_268
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 14
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b82236e62f43a44b1a31f5b907da81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

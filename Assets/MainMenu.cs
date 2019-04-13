@@ -11,8 +11,7 @@ public class MainMenu : MonoBehaviour
 
     public void PlayGame()
     {
-        SceneManager.LoadScene("game");
-        canvas = true;
+        SceneManager.LoadScene("ChooseCharacter");        
         roundonefight = true;
     }
    public void QuitGame()
