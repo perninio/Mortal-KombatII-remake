@@ -1,0 +1,5948 @@
+fileFormatVersion: 2
+guid: 33711e4b03806eb49847b154c09407e5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 328-3283932_mortal-kombat-2-noob-saibot-sprite_0
+    21300002: 328-3283932_mortal-kombat-2-noob-saibot-sprite_1
+    21300004: 328-3283932_mortal-kombat-2-noob-saibot-sprite_2
+    21300006: 328-3283932_mortal-kombat-2-noob-saibot-sprite_3
+    21300008: 328-3283932_mortal-kombat-2-noob-saibot-sprite_4
+    21300010: 328-3283932_mortal-kombat-2-noob-saibot-sprite_5
+    21300012: 328-3283932_mortal-kombat-2-noob-saibot-sprite_6
+    21300014: 328-3283932_mortal-kombat-2-noob-saibot-sprite_7
+    21300016: 328-3283932_mortal-kombat-2-noob-saibot-sprite_8
+    21300018: 328-3283932_mortal-kombat-2-noob-saibot-sprite_9
+    21300020: 328-3283932_mortal-kombat-2-noob-saibot-sprite_10
+    21300022: 328-3283932_mortal-kombat-2-noob-saibot-sprite_11
+    21300024: 328-3283932_mortal-kombat-2-noob-saibot-sprite_12
+    21300026: 328-3283932_mortal-kombat-2-noob-saibot-sprite_13
+    21300028: 328-3283932_mortal-kombat-2-noob-saibot-sprite_14
+    21300030: 328-3283932_mortal-kombat-2-noob-saibot-sprite_15
+    21300032: 328-3283932_mortal-kombat-2-noob-saibot-sprite_16
+    21300034: 328-3283932_mortal-kombat-2-noob-saibot-sprite_17
+    21300036: 328-3283932_mortal-kombat-2-noob-saibot-sprite_18
+    21300038: 328-3283932_mortal-kombat-2-noob-saibot-sprite_19
+    21300040: 328-3283932_mortal-kombat-2-noob-saibot-sprite_20
+    21300042: 328-3283932_mortal-kombat-2-noob-saibot-sprite_21
+    21300044: 328-3283932_mortal-kombat-2-noob-saibot-sprite_22
+    21300046: 328-3283932_mortal-kombat-2-noob-saibot-sprite_23
+    21300048: 328-3283932_mortal-kombat-2-noob-saibot-sprite_24
+    21300050: 328-3283932_mortal-kombat-2-noob-saibot-sprite_25
+    21300052: 328-3283932_mortal-kombat-2-noob-saibot-sprite_26
+    21300054: 328-3283932_mortal-kombat-2-noob-saibot-sprite_27
+    21300056: 328-3283932_mortal-kombat-2-noob-saibot-sprite_28
+    21300058: 328-3283932_mortal-kombat-2-noob-saibot-sprite_29
+    21300060: 328-3283932_mortal-kombat-2-noob-saibot-sprite_30
+    21300062: 328-3283932_mortal-kombat-2-noob-saibot-sprite_31
+    21300064: 328-3283932_mortal-kombat-2-noob-saibot-sprite_32
+    21300066: 328-3283932_mortal-kombat-2-noob-saibot-sprite_33
+    21300068: 328-3283932_mortal-kombat-2-noob-saibot-sprite_34
+    21300070: 328-3283932_mortal-kombat-2-noob-saibot-sprite_35
+    21300072: 328-3283932_mortal-kombat-2-noob-saibot-sprite_36
+    21300074: 328-3283932_mortal-kombat-2-noob-saibot-sprite_37
+    21300076: 328-3283932_mortal-kombat-2-noob-saibot-sprite_38
+    21300078: 328-3283932_mortal-kombat-2-noob-saibot-sprite_39
+    21300080: 328-3283932_mortal-kombat-2-noob-saibot-sprite_40
+    21300082: 328-3283932_mortal-kombat-2-noob-saibot-sprite_41
+    21300084: 328-3283932_mortal-kombat-2-noob-saibot-sprite_42
+    21300086: 328-3283932_mortal-kombat-2-noob-saibot-sprite_43
+    21300088: 328-3283932_mortal-kombat-2-noob-saibot-sprite_44
+    21300090: 328-3283932_mortal-kombat-2-noob-saibot-sprite_45
+    21300092: 328-3283932_mortal-kombat-2-noob-saibot-sprite_46
+    21300094: 328-3283932_mortal-kombat-2-noob-saibot-sprite_47
+    21300096: 328-3283932_mortal-kombat-2-noob-saibot-sprite_48
+    21300098: 328-3283932_mortal-kombat-2-noob-saibot-sprite_49
+    21300100: 328-3283932_mortal-kombat-2-noob-saibot-sprite_50
+    21300102: 328-3283932_mortal-kombat-2-noob-saibot-sprite_51
+    21300104: 328-3283932_mortal-kombat-2-noob-saibot-sprite_52
+    21300106: 328-3283932_mortal-kombat-2-noob-saibot-sprite_53
+    21300108: 328-3283932_mortal-kombat-2-noob-saibot-sprite_54
+    21300110: 328-3283932_mortal-kombat-2-noob-saibot-sprite_55
+    21300112: 328-3283932_mortal-kombat-2-noob-saibot-sprite_56
+    21300114: 328-3283932_mortal-kombat-2-noob-saibot-sprite_57
+    21300116: 328-3283932_mortal-kombat-2-noob-saibot-sprite_58
+    21300118: 328-3283932_mortal-kombat-2-noob-saibot-sprite_59
+    21300120: 328-3283932_mortal-kombat-2-noob-saibot-sprite_60
+    21300122: 328-3283932_mortal-kombat-2-noob-saibot-sprite_61
+    21300124: 328-3283932_mortal-kombat-2-noob-saibot-sprite_62
+    21300126: 328-3283932_mortal-kombat-2-noob-saibot-sprite_63
+    21300128: 328-3283932_mortal-kombat-2-noob-saibot-sprite_64
+    21300130: 328-3283932_mortal-kombat-2-noob-saibot-sprite_65
+    21300132: 328-3283932_mortal-kombat-2-noob-saibot-sprite_66
+    21300134: 328-3283932_mortal-kombat-2-noob-saibot-sprite_67
+    21300136: 328-3283932_mortal-kombat-2-noob-saibot-sprite_68
+    21300138: 328-3283932_mortal-kombat-2-noob-saibot-sprite_69
+    21300140: 328-3283932_mortal-kombat-2-noob-saibot-sprite_70
+    21300142: 328-3283932_mortal-kombat-2-noob-saibot-sprite_71
+    21300144: 328-3283932_mortal-kombat-2-noob-saibot-sprite_72
+    21300146: 328-3283932_mortal-kombat-2-noob-saibot-sprite_73
+    21300148: 328-3283932_mortal-kombat-2-noob-saibot-sprite_74
+    21300150: 328-3283932_mortal-kombat-2-noob-saibot-sprite_75
+    21300152: 328-3283932_mortal-kombat-2-noob-saibot-sprite_76
+    21300154: 328-3283932_mortal-kombat-2-noob-saibot-sprite_77
+    21300156: 328-3283932_mortal-kombat-2-noob-saibot-sprite_78
+    21300158: 328-3283932_mortal-kombat-2-noob-saibot-sprite_79
+    21300160: 328-3283932_mortal-kombat-2-noob-saibot-sprite_80
+    21300162: 328-3283932_mortal-kombat-2-noob-saibot-sprite_81
+    21300164: 328-3283932_mortal-kombat-2-noob-saibot-sprite_82
+    21300166: 328-3283932_mortal-kombat-2-noob-saibot-sprite_83
+    21300168: 328-3283932_mortal-kombat-2-noob-saibot-sprite_84
+    21300170: 328-3283932_mortal-kombat-2-noob-saibot-sprite_85
+    21300172: 328-3283932_mortal-kombat-2-noob-saibot-sprite_86
+    21300174: 328-3283932_mortal-kombat-2-noob-saibot-sprite_87
+    21300176: 328-3283932_mortal-kombat-2-noob-saibot-sprite_88
+    21300178: 328-3283932_mortal-kombat-2-noob-saibot-sprite_89
+    21300180: 328-3283932_mortal-kombat-2-noob-saibot-sprite_90
+    21300182: 328-3283932_mortal-kombat-2-noob-saibot-sprite_91
+    21300184: 328-3283932_mortal-kombat-2-noob-saibot-sprite_92
+    21300186: 328-3283932_mortal-kombat-2-noob-saibot-sprite_93
+    21300188: 328-3283932_mortal-kombat-2-noob-saibot-sprite_94
+    21300190: 328-3283932_mortal-kombat-2-noob-saibot-sprite_95
+    21300192: 328-3283932_mortal-kombat-2-noob-saibot-sprite_96
+    21300194: 328-3283932_mortal-kombat-2-noob-saibot-sprite_97
+    21300196: 328-3283932_mortal-kombat-2-noob-saibot-sprite_98
+    21300198: 328-3283932_mortal-kombat-2-noob-saibot-sprite_99
+    21300200: 328-3283932_mortal-kombat-2-noob-saibot-sprite_100
+    21300202: 328-3283932_mortal-kombat-2-noob-saibot-sprite_101
+    21300204: 328-3283932_mortal-kombat-2-noob-saibot-sprite_102
+    21300206: 328-3283932_mortal-kombat-2-noob-saibot-sprite_103
+    21300208: 328-3283932_mortal-kombat-2-noob-saibot-sprite_104
+    21300210: 328-3283932_mortal-kombat-2-noob-saibot-sprite_105
+    21300212: 328-3283932_mortal-kombat-2-noob-saibot-sprite_106
+    21300214: 328-3283932_mortal-kombat-2-noob-saibot-sprite_107
+    21300216: 328-3283932_mortal-kombat-2-noob-saibot-sprite_108
+    21300218: 328-3283932_mortal-kombat-2-noob-saibot-sprite_109
+    21300220: 328-3283932_mortal-kombat-2-noob-saibot-sprite_110
+    21300222: 328-3283932_mortal-kombat-2-noob-saibot-sprite_111
+    21300224: 328-3283932_mortal-kombat-2-noob-saibot-sprite_112
+    21300226: 328-3283932_mortal-kombat-2-noob-saibot-sprite_113
+    21300228: 328-3283932_mortal-kombat-2-noob-saibot-sprite_114
+    21300230: 328-3283932_mortal-kombat-2-noob-saibot-sprite_115
+    21300232: 328-3283932_mortal-kombat-2-noob-saibot-sprite_116
+    21300234: 328-3283932_mortal-kombat-2-noob-saibot-sprite_117
+    21300236: 328-3283932_mortal-kombat-2-noob-saibot-sprite_118
+    21300238: 328-3283932_mortal-kombat-2-noob-saibot-sprite_119
+    21300240: 328-3283932_mortal-kombat-2-noob-saibot-sprite_120
+    21300242: 328-3283932_mortal-kombat-2-noob-saibot-sprite_121
+    21300244: 328-3283932_mortal-kombat-2-noob-saibot-sprite_122
+    21300246: 328-3283932_mortal-kombat-2-noob-saibot-sprite_123
+    21300248: 328-3283932_mortal-kombat-2-noob-saibot-sprite_124
+    21300250: 328-3283932_mortal-kombat-2-noob-saibot-sprite_125
+    21300252: 328-3283932_mortal-kombat-2-noob-saibot-sprite_126
+    21300254: 328-3283932_mortal-kombat-2-noob-saibot-sprite_127
+    21300256: 328-3283932_mortal-kombat-2-noob-saibot-sprite_128
+    21300258: 328-3283932_mortal-kombat-2-noob-saibot-sprite_129
+    21300260: 328-3283932_mortal-kombat-2-noob-saibot-sprite_130
+    21300262: 328-3283932_mortal-kombat-2-noob-saibot-sprite_131
+    21300264: 328-3283932_mortal-kombat-2-noob-saibot-sprite_132
+    21300266: 328-3283932_mortal-kombat-2-noob-saibot-sprite_133
+    21300268: 328-3283932_mortal-kombat-2-noob-saibot-sprite_134
+    21300270: 328-3283932_mortal-kombat-2-noob-saibot-sprite_135
+    21300272: 328-3283932_mortal-kombat-2-noob-saibot-sprite_136
+    21300274: 328-3283932_mortal-kombat-2-noob-saibot-sprite_137
+    21300276: 328-3283932_mortal-kombat-2-noob-saibot-sprite_138
+    21300278: 328-3283932_mortal-kombat-2-noob-saibot-sprite_139
+    21300280: 328-3283932_mortal-kombat-2-noob-saibot-sprite_140
+    21300282: 328-3283932_mortal-kombat-2-noob-saibot-sprite_141
+    21300284: 328-3283932_mortal-kombat-2-noob-saibot-sprite_142
+    21300286: 328-3283932_mortal-kombat-2-noob-saibot-sprite_143
+    21300288: 328-3283932_mortal-kombat-2-noob-saibot-sprite_144
+    21300290: 328-3283932_mortal-kombat-2-noob-saibot-sprite_145
+    21300292: 328-3283932_mortal-kombat-2-noob-saibot-sprite_146
+    21300294: 328-3283932_mortal-kombat-2-noob-saibot-sprite_147
+    21300296: 328-3283932_mortal-kombat-2-noob-saibot-sprite_148
+    21300298: 328-3283932_mortal-kombat-2-noob-saibot-sprite_149
+    21300300: 328-3283932_mortal-kombat-2-noob-saibot-sprite_150
+    21300302: 328-3283932_mortal-kombat-2-noob-saibot-sprite_151
+    21300304: 328-3283932_mortal-kombat-2-noob-saibot-sprite_152
+    21300306: 328-3283932_mortal-kombat-2-noob-saibot-sprite_153
+    21300308: 328-3283932_mortal-kombat-2-noob-saibot-sprite_154
+    21300310: 328-3283932_mortal-kombat-2-noob-saibot-sprite_155
+    21300312: 328-3283932_mortal-kombat-2-noob-saibot-sprite_156
+    21300314: 328-3283932_mortal-kombat-2-noob-saibot-sprite_157
+    21300316: 328-3283932_mortal-kombat-2-noob-saibot-sprite_158
+    21300318: 328-3283932_mortal-kombat-2-noob-saibot-sprite_159
+    21300320: 328-3283932_mortal-kombat-2-noob-saibot-sprite_160
+    21300322: 328-3283932_mortal-kombat-2-noob-saibot-sprite_161
+    21300324: 328-3283932_mortal-kombat-2-noob-saibot-sprite_162
+    21300326: 328-3283932_mortal-kombat-2-noob-saibot-sprite_163
+    21300328: 328-3283932_mortal-kombat-2-noob-saibot-sprite_164
+    21300330: 328-3283932_mortal-kombat-2-noob-saibot-sprite_165
+    21300332: 328-3283932_mortal-kombat-2-noob-saibot-sprite_166
+    21300334: 328-3283932_mortal-kombat-2-noob-saibot-sprite_167
+    21300336: 328-3283932_mortal-kombat-2-noob-saibot-sprite_168
+    21300338: 328-3283932_mortal-kombat-2-noob-saibot-sprite_169
+    21300340: 328-3283932_mortal-kombat-2-noob-saibot-sprite_170
+    21300342: 328-3283932_mortal-kombat-2-noob-saibot-sprite_171
+    21300344: 328-3283932_mortal-kombat-2-noob-saibot-sprite_172
+    21300346: 328-3283932_mortal-kombat-2-noob-saibot-sprite_173
+    21300348: 328-3283932_mortal-kombat-2-noob-saibot-sprite_174
+    21300350: 328-3283932_mortal-kombat-2-noob-saibot-sprite_175
+    21300352: 328-3283932_mortal-kombat-2-noob-saibot-sprite_176
+    21300354: 328-3283932_mortal-kombat-2-noob-saibot-sprite_177
+    21300356: 328-3283932_mortal-kombat-2-noob-saibot-sprite_178
+    21300358: 328-3283932_mortal-kombat-2-noob-saibot-sprite_179
+    21300360: 328-3283932_mortal-kombat-2-noob-saibot-sprite_180
+    21300362: 328-3283932_mortal-kombat-2-noob-saibot-sprite_181
+    21300364: 328-3283932_mortal-kombat-2-noob-saibot-sprite_182
+    21300366: 328-3283932_mortal-kombat-2-noob-saibot-sprite_183
+    21300368: 328-3283932_mortal-kombat-2-noob-saibot-sprite_184
+    21300370: 328-3283932_mortal-kombat-2-noob-saibot-sprite_185
+    21300372: 328-3283932_mortal-kombat-2-noob-saibot-sprite_186
+    21300374: 328-3283932_mortal-kombat-2-noob-saibot-sprite_187
+    21300376: 328-3283932_mortal-kombat-2-noob-saibot-sprite_188
+    21300378: 328-3283932_mortal-kombat-2-noob-saibot-sprite_189
+    21300380: 328-3283932_mortal-kombat-2-noob-saibot-sprite_190
+    21300382: 328-3283932_mortal-kombat-2-noob-saibot-sprite_191
+    21300384: 328-3283932_mortal-kombat-2-noob-saibot-sprite_192
+    21300386: 328-3283932_mortal-kombat-2-noob-saibot-sprite_193
+    21300388: 328-3283932_mortal-kombat-2-noob-saibot-sprite_194
+    21300390: 328-3283932_mortal-kombat-2-noob-saibot-sprite_195
+    21300392: 328-3283932_mortal-kombat-2-noob-saibot-sprite_196
+    21300394: 328-3283932_mortal-kombat-2-noob-saibot-sprite_197
+    21300396: 328-3283932_mortal-kombat-2-noob-saibot-sprite_198
+    21300398: 328-3283932_mortal-kombat-2-noob-saibot-sprite_199
+    21300400: 328-3283932_mortal-kombat-2-noob-saibot-sprite_200
+    21300402: 328-3283932_mortal-kombat-2-noob-saibot-sprite_201
+    21300404: 328-3283932_mortal-kombat-2-noob-saibot-sprite_202
+    21300406: 328-3283932_mortal-kombat-2-noob-saibot-sprite_203
+    21300408: 328-3283932_mortal-kombat-2-noob-saibot-sprite_204
+    21300410: 328-3283932_mortal-kombat-2-noob-saibot-sprite_205
+    21300412: 328-3283932_mortal-kombat-2-noob-saibot-sprite_206
+    21300414: 328-3283932_mortal-kombat-2-noob-saibot-sprite_207
+    21300416: 328-3283932_mortal-kombat-2-noob-saibot-sprite_208
+    21300418: 328-3283932_mortal-kombat-2-noob-saibot-sprite_209
+    21300420: 328-3283932_mortal-kombat-2-noob-saibot-sprite_210
+    21300422: 328-3283932_mortal-kombat-2-noob-saibot-sprite_211
+    21300424: 328-3283932_mortal-kombat-2-noob-saibot-sprite_212
+    21300426: 328-3283932_mortal-kombat-2-noob-saibot-sprite_213
+    21300428: 328-3283932_mortal-kombat-2-noob-saibot-sprite_214
+    21300430: 328-3283932_mortal-kombat-2-noob-saibot-sprite_215
+    21300432: 328-3283932_mortal-kombat-2-noob-saibot-sprite_216
+    21300434: 328-3283932_mortal-kombat-2-noob-saibot-sprite_217
+    21300436: 328-3283932_mortal-kombat-2-noob-saibot-sprite_218
+    21300438: 328-3283932_mortal-kombat-2-noob-saibot-sprite_219
+    21300440: 328-3283932_mortal-kombat-2-noob-saibot-sprite_220
+    21300442: 328-3283932_mortal-kombat-2-noob-saibot-sprite_221
+    21300444: 328-3283932_mortal-kombat-2-noob-saibot-sprite_222
+    21300446: 328-3283932_mortal-kombat-2-noob-saibot-sprite_223
+    21300448: 328-3283932_mortal-kombat-2-noob-saibot-sprite_224
+    21300450: 328-3283932_mortal-kombat-2-noob-saibot-sprite_225
+    21300452: 328-3283932_mortal-kombat-2-noob-saibot-sprite_226
+    21300454: 328-3283932_mortal-kombat-2-noob-saibot-sprite_227
+    21300456: 328-3283932_mortal-kombat-2-noob-saibot-sprite_228
+    21300458: 328-3283932_mortal-kombat-2-noob-saibot-sprite_229
+    21300460: 328-3283932_mortal-kombat-2-noob-saibot-sprite_230
+    21300462: 328-3283932_mortal-kombat-2-noob-saibot-sprite_231
+    21300464: 328-3283932_mortal-kombat-2-noob-saibot-sprite_232
+    21300466: 328-3283932_mortal-kombat-2-noob-saibot-sprite_233
+    21300468: 328-3283932_mortal-kombat-2-noob-saibot-sprite_234
+    21300470: 328-3283932_mortal-kombat-2-noob-saibot-sprite_235
+    21300472: 328-3283932_mortal-kombat-2-noob-saibot-sprite_236
+    21300474: 328-3283932_mortal-kombat-2-noob-saibot-sprite_237
+    21300476: 328-3283932_mortal-kombat-2-noob-saibot-sprite_238
+    21300478: 328-3283932_mortal-kombat-2-noob-saibot-sprite_239
+    21300480: 328-3283932_mortal-kombat-2-noob-saibot-sprite_240
+    21300482: 328-3283932_mortal-kombat-2-noob-saibot-sprite_241
+    21300484: 328-3283932_mortal-kombat-2-noob-saibot-sprite_242
+    21300486: 328-3283932_mortal-kombat-2-noob-saibot-sprite_243
+    21300488: 328-3283932_mortal-kombat-2-noob-saibot-sprite_244
+    21300490: 328-3283932_mortal-kombat-2-noob-saibot-sprite_245
+    21300492: 328-3283932_mortal-kombat-2-noob-saibot-sprite_246
+    21300494: 328-3283932_mortal-kombat-2-noob-saibot-sprite_247
+    21300496: 328-3283932_mortal-kombat-2-noob-saibot-sprite_248
+    21300498: 328-3283932_mortal-kombat-2-noob-saibot-sprite_249
+    21300500: 328-3283932_mortal-kombat-2-noob-saibot-sprite_250
+    21300502: 328-3283932_mortal-kombat-2-noob-saibot-sprite_251
+    21300504: 328-3283932_mortal-kombat-2-noob-saibot-sprite_252
+    21300506: 328-3283932_mortal-kombat-2-noob-saibot-sprite_253
+    21300508: 328-3283932_mortal-kombat-2-noob-saibot-sprite_254
+    21300510: 328-3283932_mortal-kombat-2-noob-saibot-sprite_255
+    21300512: 328-3283932_mortal-kombat-2-noob-saibot-sprite_256
+    21300514: 328-3283932_mortal-kombat-2-noob-saibot-sprite_257
+    21300516: 328-3283932_mortal-kombat-2-noob-saibot-sprite_258
+    21300518: 328-3283932_mortal-kombat-2-noob-saibot-sprite_259
+    21300520: 328-3283932_mortal-kombat-2-noob-saibot-sprite_260
+    21300522: 328-3283932_mortal-kombat-2-noob-saibot-sprite_261
+    21300524: 328-3283932_mortal-kombat-2-noob-saibot-sprite_262
+    21300526: 328-3283932_mortal-kombat-2-noob-saibot-sprite_263
+    21300528: 328-3283932_mortal-kombat-2-noob-saibot-sprite_264
+    21300530: 328-3283932_mortal-kombat-2-noob-saibot-sprite_265
+    21300532: 328-3283932_mortal-kombat-2-noob-saibot-sprite_266
+    21300534: 328-3283932_mortal-kombat-2-noob-saibot-sprite_267
+    21300536: 328-3283932_mortal-kombat-2-noob-saibot-sprite_268
+    21300538: 328-3283932_mortal-kombat-2-noob-saibot-sprite_269
+    21300540: 328-3283932_mortal-kombat-2-noob-saibot-sprite_270
+    21300542: 328-3283932_mortal-kombat-2-noob-saibot-sprite_271
+    21300544: 328-3283932_mortal-kombat-2-noob-saibot-sprite_272
+    21300546: 328-3283932_mortal-kombat-2-noob-saibot-sprite_273
+    21300548: 328-3283932_mortal-kombat-2-noob-saibot-sprite_274
+    21300550: 328-3283932_mortal-kombat-2-noob-saibot-sprite_275
+    21300552: 328-3283932_mortal-kombat-2-noob-saibot-sprite_276
+    21300554: 328-3283932_mortal-kombat-2-noob-saibot-sprite_277
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1810
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3b975ab120365469a1bad44b836466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1810
+        width: 37
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b72a20b25704824c907503e302d7b50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1810
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca566972e2ad0540aa92da66b715a2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1810
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7192aef9c56c742bc13555db1a969e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1810
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4037642d4ea54ed489c7004b25e99a29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1810
+        width: 39
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7e8dcb29aa1c345a7d07a5f78793a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1810
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0333899e83e0b49a9dca753cd0a25b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1810
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b9b25ec4b6f9d488b0c620b0fb1722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1810
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1121a853501064ca3d7c480e014b6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1810
+        width: 37
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde6c4d3071b2a7439c9c6937afa1588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1810
+        width: 36
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1cf10e37043044da926078a5f41a9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1810
+        width: 36
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e090d88a158474b9abed567660b66b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1810
+        width: 38
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092e29bc34b16d540aeefefa30c89d76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1810
+        width: 38
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92019ad18349f7943888e7153b7bdf36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1810
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfeb6bc1e937aa4b81b2bd245c15348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1810
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9e8bd718426be418b4d2457f00ab13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1810
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc98e0d4af8000d42af396a89b20a51c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1810
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a44bffb0f6eb2a4ba4a89bf18f73410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1810
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983b05d15b9f14a47a3a7a662eb60e3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1691
+        width: 36
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b14c313d5006d449cfe5b64bffb8cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1691
+        width: 31
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc8d70599479df4a8400f7556b3758b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1691
+        width: 31
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec945970eb1ebc4e91da7bb51a3c4a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1691
+        width: 34
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69345b8b8de0ce40bc68a081e491fad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1691
+        width: 35
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2984bbcde39693548993372c00d19ba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1691
+        width: 31
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c73c5e89297c94abbf80c7b13cf4f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1691
+        width: 31
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565360dfad878f74cbc912a0c7e9c58e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1691
+        width: 34
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2689a97a86c8a1a4b9af401823b99b72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1691
+        width: 43
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca88eb4881a22ad4ca864638265f94ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1691
+        width: 45
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a67d22585a9d024f88dfbafe49b8fbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1691
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219fb0210d6b10a4c8f9fc66d6db239b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1691
+        width: 37
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b656e01141e69ab499b786269a5a255e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1691
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e23c0f830169146890db85b414805b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_32
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1691
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7bdb2e0bab16146afdade12c77f3bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_33
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1691
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac693f224174f74185c476d64db80b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_34
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1691
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3805a5ae317f94a82d7bc01b7ddf4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_35
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1691
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8bf9fde9c242b429e4a9ee49ebfe1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_36
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1691
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc925444436db14f9671c18a7da9b0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_37
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1691
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9647bcbc097c93843917a7dc2a0af806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_38
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1677
+        width: 34
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202eba109562d704a948458a34027266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_39
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1677
+        width: 33
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149c460743531ef42b1d990140ab6e02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1575
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11afcfbe3278b74c85d63b67c5111e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1575
+        width: 42
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6400516028ee14ebfc10dfeeb74f06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_42
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1575
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318c693eb3cf0694caf504f3d815f7f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_43
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1575
+        width: 39
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc0d3304e75d7b44891209c94196e36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_44
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1575
+        width: 49
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3befa72dc9697438ac1a667348796a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_45
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1575
+        width: 55
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e31d6158bef544da057fafb18c3a25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_46
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1575
+        width: 47
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d991e0e80f8964e9d29eaf381a8b0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_47
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1575
+        width: 41
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f391b068005ae47a4092cd8586dc0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_48
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1575
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ac29cb29bf68e44a8a29282c5f55dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_49
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1575
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf2b4e0239228c439e5caadec154a5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_50
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1575
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266859d9a8ae06c499b125e259e81b4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_51
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1575
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d42584f005f7814cbec4ccd25b198d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_52
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1575
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df35bcdedf8ab9d4bada7e130475cd5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_53
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1575
+        width: 49
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf793f9cc36227940917f43c103cf82c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_54
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1575
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1e111fa242e5f43a58e64837317936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1470
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e129b63dd12a345bad8f4665bcaea7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1470
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d31a8ba5fa817f40ad76c15d01456f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_57
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1470
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85698ad7e7890d542a832df18fa94c78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_58
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1470
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3175d281b14e5de49b635bdceba1df6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1470
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0608aac369829a244825cdf2f1101053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_60
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1470
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851dfda7bd8fbae428cc3804a985cf9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_61
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1470
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778d0a3f085126d4fb540e393462088a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_62
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1470
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e6ad5c6b9c1de4eaef9f0c32defc4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_63
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1470
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29269ff0cf015f246b314b821e7177c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_64
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1470
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ca35c2a9b7bde44883c2bad9ce4ea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1356
+        width: 40
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55675f433130a747ba02a596f41a333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1356
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df0c3d900690a245a4b5928d69d3851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_67
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1356
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33357c3ba3911a345a5cf351969b8157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_68
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1356
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae2ec5c2365aae4386ec9b83b1852f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_69
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1356
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4c26aaa30cb8e4996f3fb1010340ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_70
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1356
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21eaad63874d3e46a69fec071bd8ca9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_71
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1356
+        width: 40
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c3f712949cc47439b92feeb48e12a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_72
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1356
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9fc90ec45b04145852260b9baa4a27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_73
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1356
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed64cbba08d5dd428c3ac784b1b0279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_74
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1356
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2f69ab731e94645ba1948a9d3a9ca7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_75
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1356
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6743d879eee5b1148a005ceec64ba2ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_76
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1356
+        width: 33
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be8da53f19121745903788d4209a2db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_77
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1356
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f256bfaf443cfb145a3b9bb5b8eeb2a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1252
+        width: 31
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8476840a0043aef4497a331e47b6e63b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_79
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1252
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01d134c657e159469b9c8cc0493519e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_80
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1252
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ea3341ab11d904490a227f66dd890c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_81
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1252
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bba02fa0495d14ea437245163c043e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_82
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1252
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1119732c6ad0ae24293d82510967c1ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_83
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1252
+        width: 37
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3129b804ad8ffd24ba6d8b7d1a72af9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_84
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1252
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee9823455b9c8743b32d567d148e8c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_85
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1252
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291bc681bf5af6f40a36d562d80c4f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_86
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1252
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8bdea185ff9c848a12aba2acf0766f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_87
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1252
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b7941e552d1bb4683d0779f5b32e5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_88
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1252
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d52e0161fffe8449b41ec416dceacb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1121
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf78d29d36fe874ca72231ccced468a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_90
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1121
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf281bd4313db7488f919350bab21c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_91
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1121
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeed6c05a07d704795b6904ccf22c07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_92
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1121
+        width: 36
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1295d276c9007d41ba5df9db337e9e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_93
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1121
+        width: 42
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da3068cd2395304996224ebfdca7118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_94
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1121
+        width: 35
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5873bd520d3abaa4fb4d7f443aa361bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_95
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1121
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06d539b0c6c9d34b8b3ade35ca40f1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_96
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1121
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b46b5ab6e74a8942a1d65bd57f66ead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_97
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1121
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dcde2fe758af947862a483183ad5c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_98
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1121
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b139444b0aebb9d43a9cb19006def33d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_99
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1121
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4788ad06763699f4eafcb6beb891911a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_100
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1121
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157aaed2a36f02148bbff564b773fe72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_101
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1121
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e6486c3ae29c54dbf763ac481ad26a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_102
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1121
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9043c68f1385da2468a372d687e19b3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_103
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1121
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed31d46076430624ab5150249780d39b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_104
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1121
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80c99cdc1be95444aaa6806b1f22c94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_105
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1121
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f705ce751aa54ae47aabea93a8a1b3fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1026
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3731d09031d51eb4280dea78e0c47a6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_107
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1026
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afa3ba8f5355bc479e08f473d914a0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_108
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1026
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca65ce1e81b29743be5dfd7bb11c7d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_109
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1026
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f954423beaf6145b5367c22f7369b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_110
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1026
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58e6ada109b1954c98a393d20d1785a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_111
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1026
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9efc5e8ae2f214691558999650748e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 914
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6468e5895b24bf41a6481fea6b1aaad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_113
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 914
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a32a9c4d822fc4b925c2fdf2122224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_114
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 914
+        width: 40
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b84cc279be06a14090cdb81939fcf8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_115
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 914
+        width: 45
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee5bcba5769c374d8fbc856e6fc6931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_116
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 914
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e3e04b0226d8f409e0fe28875fc345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_117
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 914
+        width: 36
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b0fb26edd29bf4b9be6434c7cddc9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_118
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 914
+        width: 35
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbf2affd1221c344ba80d840fbf63b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_119
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 914
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6546073aa4234747bfee42319ec1dcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_120
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 914
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc2f9f75f129e347be29ef11b40f0b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_121
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 914
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088213747085ac643992e323cb56ef47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_122
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 914
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd0acf952b14744aa326b31a0442909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_123
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 914
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6565afd025c6af43a2d3bbef202d5b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_124
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 914
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea40a5d8ad51a6148ba9adc51c01c865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_125
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 914
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1851c37db2b7de43a4d076feaad97b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_126
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 914
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbe75302fa1ba94ea9a2c9c1c48de6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_127
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 914
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95d3430b3d3d984b90751edbe7fc07d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_128
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 914
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218eba2cd3d960b4db28d37c7182985b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_129
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 914
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d6fa7919071a24ba7bafb5815f11d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 805
+        width: 36
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059e2493c2f771a4d8aa6e7213ee374f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_131
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 805
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddaf3a9b6fef5840bef433092060681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_132
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 805
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3b15fdccdb1064fbd107f36f849d10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_133
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 805
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5be9dd2e27299d4b862e2a5920b6c40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_134
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 805
+        width: 83
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb88db830d84c3c4c8a895d76b50261f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_135
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 805
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e93e2b35a7e0d4fa369291483de8cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_136
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 805
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ea9a730a970524393dfddb62e476fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_137
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 805
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f50007d94b7b646896d09def3e12db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_138
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 805
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0df004e7188bf74888c4a7f272f32b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_139
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 805
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351ac612732daca4db088c5b47d28eb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_140
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 805
+        width: 83
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24a43260369c6a40bc7338727216c3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_141
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 805
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a5927887230984392da0fef7b05304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_142
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 805
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd64905a51773944a48f7e3f6aeb125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_143
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 805
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc128761e88893048af097b47af6db51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_144
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 805
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe97e001cd92e542b732ff61960b551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_145
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 695
+        width: 34
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d52307ddbd5dfd4d948c4a46fb3f75c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_146
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 695
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1179aa43ed79ead41a829f01026c9bf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_147
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 695
+        width: 35
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8498028f037794dba0d2f11794cb64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_148
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 695
+        width: 36
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4374d92fd5a4c354cac38b6ab88cd7e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_149
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 695
+        width: 32
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fc52e3b0f89724f8fdf0505e0ab425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_150
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 695
+        width: 33
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc71469d52e267f43a689ed3c54fb277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_151
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 695
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5748cf1305c3df42b164f608756462d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_152
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 585
+        width: 52
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546f3001311757b41bd216dcb3b6b3d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_153
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 585
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4269d936f37cc4b8ba3db4f8c30d9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_154
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 585
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782dc1e7c0b47aa48ad6475bdc0ed8e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_155
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 585
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fede7ce155c51439e23c0801aa2aab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_156
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 585
+        width: 41
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b03036ab1c51b4faa13581406694f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_157
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 585
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727495ad1d23a944986a567a691beba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_158
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 647
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d01092f53f33245b3e486995ae356e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_159
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 585
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba78653c4ddb6a46b2e4201f9cd7c52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_160
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 585
+        width: 67
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0bbf33f637202478dbfaa77dba9cbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_161
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 585
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2709d90a5a1b1264a8179552c3f496a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_162
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 585
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09433724211793a488bbee3794561e03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_163
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 630
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93daf1d364d1ebd44abd3646505230b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_164
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 585
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15ecbd1bdcfd2b49ae8a03fc1e6bb1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_165
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 585
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb43810502a91d4bbec119a9ab80be1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_166
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 614
+        width: 141
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41e24a405471874bb3a47c403c42145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_167
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 585
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc6868653449674c9fa29cda0dcdd98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_168
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 585
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97401d19a2f3606499b5a6728bbd3cd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_169
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 585
+        width: 166
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaf5db735b6ab74ca2941aafe3a353e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_170
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 471
+        width: 34
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9877372e5ed537419f0b9d8001a41c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_171
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 471
+        width: 34
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62358430af4a11c44960b9b88e98c5d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_172
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 471
+        width: 43
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dd92731ea8c3d4ab79915534bb348f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_173
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 471
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e37a1803840f2e4385c0131e363ca11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_174
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 471
+        width: 34
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124aa5b49bfac654e8b1eabff06baf16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_175
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 471
+        width: 37
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472d80ab8db245d4c91f416ffc6273de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_176
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 471
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37ca58cda5960d418cced5976b9050a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_177
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 471
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b376840c6749e4890056dc3fb0f357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_178
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 471
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5a65dc4826e5e489953d7391ed83ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_179
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 488
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460d144be36cd49489a165575b53a66e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_180
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 507
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1d624d9d352274ebcc664cff10b317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_181
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 536
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07091009eb5b9ec4a94e569579e3ee29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_182
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 536
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf21c6c2b574a54d909c8aaa0536eff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_183
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 494
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6314e05743e92834fbcc575c61e22bc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_184
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 471
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062776d375d8ece4d9abb1035365fd4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_185
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 471
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42d1f5180b2e264c8ebb9dc3143326d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_186
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 512
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016f6d0299e60c0468fec6c3def777a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_187
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 487
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceed48f28c7d8446bad0cad7e33505b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_188
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 471
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7686dd9f0443896448e677f268d5dce3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_189
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 471
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705bfa638d04c2d4bb785a2417cf4cff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_190
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 471
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386a8343eb775334fb621c0340a8eb6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_191
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 471
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbc3c6850cd28c44af478b98f3309b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_192
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 353
+        width: 44
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff852117a3cb39143bd3923fcc670187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_193
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 471
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39a92f11fc176e4782dfe67e044eb34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_194
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 471
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e827c96bbf237134ebe389781412333d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_195
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 471
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0d75d8cc138eb43b1bc3122d806477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_196
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e9dbd61a1a6d040bab1b4316f1fd10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_197
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 353
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec43205356b8e6f459fc3f4f2e3f3c07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_198
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 353
+        width: 83
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99566f9d8d729442a909f165b816bff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_199
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 353
+        width: 47
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25937f108f2c3848b7da84eb512245b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_200
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 353
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd9a0128ca607943a399d2be77b8180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_201
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 353
+        width: 47
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b8772e18c677b4593fbe811405582c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_202
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 353
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9835e0f3c5d8c0942a606fe068bd2dc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_203
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 353
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f443551a66bbe214ab42945615c0b9be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_204
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 353
+        width: 46
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94ba5358f52bda489ce42e9becb5c01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_205
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 353
+        width: 37
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1655798219dc39942ad3aad9ea4585be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_206
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 353
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afb9d283c6b8ca4fa086687bccb0a6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_207
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 371
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d37ec78231284f4e96158dcb1795076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_208
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 371
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8909d17931e548944aa26b83707b7568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_209
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 371
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444f6bf636b42164cb4eedeea4a9ce88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_210
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 371
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3729a7e25af9b4983be684e643ec5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_211
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 371
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8d65ee8702a214fad9403246e9486a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_212
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 353
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633fdf7ab6c0eef4c85cd7824595a07b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_213
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 353
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2434113f7dfc9743a3b88c703bcf781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_214
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 353
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a56c103a63eee408e4b4f95efbc069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_215
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 353
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a05c462ed96d943b576f46c769aabd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_216
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 353
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d97f623f80fad748a75b280f5ca1e3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_217
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4df639f6cb77d542b474adb93a65e26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_218
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 240
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a895eb4417e3aa6429d0821f42a14f50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_219
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 240
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e6ead0446e32641b429610f5389d74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_220
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 240
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd80e8c870e0a04ea1896229aac6eec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_221
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 240
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914c99874e0f5784e8be4f33d70a6ffc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72788f35c487d8b46b34fb5994a82cbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_223
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 240
+        width: 38
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ae0a730938d3a4cb1fffcdf162aa74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_224
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 240
+        width: 35
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc632d3685da25b47b6aca9ccf515be0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_225
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 240
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b789a659b397504bb031fd90f78b334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_226
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 240
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c74fc5f6d61ea46b818782c2b6c0ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_227
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 240
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b1e9189778c97418c4ab14b4979f1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_228
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 240
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9fab87cdd3dd0449d24d3015df0d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_229
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 240
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aecaf23a0aaef458a47b10eeab313a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_230
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 240
+        width: 103
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4da3b51c8579cc4bafb1b689986404c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_231
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 240
+        width: 119
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8c30e2c451b3341af01ee96504387d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_232
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 15
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d92f83aefdb33c448199977fe313692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_233
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 123
+        width: 24
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350532acbdeb89f46a24121de0e4e409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_234
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 123
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9200ef58a383eb44db2abe57aa284aa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_235
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 123
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfff31b7a1dc96f4d8faaed28a0af25e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_236
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 123
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc2205e0b737824daa9b965270e09c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_237
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 123
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123b12f094d1b2a4e8bb407abf4e76b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_238
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 123
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0260e7142304b2046b84ac193b6d7263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_239
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 123
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8676cd6ec8599334b92c16387e1bf373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_240
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 123
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40604579783c9a1458999264b1276574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_241
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 123
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcab56f6bcaebe438cad221dca1fa29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_242
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 123
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3375ca9d7b0b64e498a176841c5f6b60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_243
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 123
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df7c877e0176234bba1a4deeaf26d59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_244
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 123
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fc081377732fc45889a253617dbca5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_245
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 123
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26de45a650bd514b92b6e7eb28fae59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_246
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 123
+        width: 27
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6ac2361c07c8440a259874255a510e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_247
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 123
+        width: 25
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1780ba7eb3ac11b428635a45e27dc44c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_248
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 123
+        width: 27
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37527df8c5a0a974ea9cab729e3aec92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_249
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 123
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e1e4acac820b9429b0e71b46176030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_250
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 123
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0d35e0de7165b448c54df4de7e65f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_251
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 123
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bc6b99c4b76264bb3ce8c6fd68d1a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_252
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 123
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53adf8a0c08339439f2bf066013abd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_253
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 123
+        width: 31
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ae5f2e2d61d2546935547be50a2dcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_254
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 123
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517793c212ea85e45ac98e9099c05534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_255
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 123
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f8aa015386ea344a1c2813ec2bd59e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_256
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 123
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd68df7d5d462d42bcb3c6b542c8b18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_257
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 123
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6b2bc764e26e04b8fe1d03a801c85a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_258
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 123
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e90a6fde1832b04e87ec97fcbfe1bae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_259
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 123
+        width: 33
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72de96fe9e5a2c946bf7c30e45f89267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_260
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 123
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386f3a43adb4c664398d2ef0f1c4af48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_261
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 35
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ddf1359e11c6b4e87415a5abe2d898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_262
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b70f42ab02bc341811de6570ed3d1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_263
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e19f8449ffdf8e4ab2ce004b8546f28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_264
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395b56a7a7d088a449053a525ac19121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_265
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 31
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba9eca2243bf154fb8ae15c216a707c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_266
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8eee374c6a3c34b9fe51d1426ab867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_267
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5eb04bd19304e438b63495c48c51bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_268
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a64e597f57e8bc42bfd0af685396a23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_269
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de5c9378d1a6b84d88419115910f01e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_270
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d21e3f339206e429129d03d05838c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_271
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 77
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced4203826b48da4e9d3f98ee269862e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_272
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b502510fb00a1b45808f93f4ae518e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_273
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee310460b6fd3e4ba871e418914c425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_274
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 0
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e25adca4d0264e429ac2b2cf1eb8f12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_275
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ce6efae6cd5c04296914c82456aa6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_276
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 0
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996f52193d2fcc940974282d4033dd5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283932_mortal-kombat-2-noob-saibot-sprite_277
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 0
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaf70617b308ba4a8e21c40d5358368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 43c3dafd41daba744a9d63dd7b82ddbd
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
