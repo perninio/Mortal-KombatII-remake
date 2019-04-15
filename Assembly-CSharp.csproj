@@ -54,8 +54,11 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\ActivatePlayer.cs" />
+     <Compile Include="Assets\Bot.cs" />
+     <Compile Include="Assets\BotInput.cs" />
      <Compile Include="Assets\ChosePlayer.cs" />
      <Compile Include="Assets\GameMusicPlayer.cs" />
+     <Compile Include="Assets\HealthBar.cs" />
      <Compile Include="Assets\InputManager.cs" />
      <Compile Include="Assets\MainMenu.cs" />
      <Compile Include="Assets\Player.cs" />

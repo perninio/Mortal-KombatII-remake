@@ -6,21 +6,25 @@ using UnityEngine;
 public class Player : MonoBehaviour
 
 {
-
     InputManager inputManager;
     Animator animationController;
 
-   [SerializeField] float playerSpeed = 10f;    
-   [SerializeField]public GameObject canvaseControls;
+   [SerializeField] float playerSpeed = 5f;    
+   [SerializeField] public GameObject canvaseControls;
+   [SerializeField] public GameObject healthBar;
 
+    public float jumpHeight = 10f;
+    public Rigidbody2D rb;
+    public int health = 100;
 
+    void Start() {
+        rb = GetComponent<Rigidbody2D>();
+    }
 
     private void Awake()
     {
         inputManager = GetComponent<InputManager>();
         animationController = GetComponent<Animator>();
-
-
     }
 
     void Update()
@@ -31,22 +35,38 @@ public class Player : MonoBehaviour
             canvaseControls.SetActive(true);
         }        
 
-        animationController.SetBool("ismoving",inputManager.ismoving);
-        animationController.SetBool("iskneeling",inputManager.iskneeling);
+        animationController.SetBool("ismoving", inputManager.ismoving);
+        animationController.SetBool("iskneeling", inputManager.iskneeling);
         animationController.SetBool("isjumping", inputManager.isjumping);
-        animationController.SetBool("isblocking",inputManager.isblocking);
-        animationController.SetBool("iskicking",inputManager.iskicking);
+        animationController.SetBool("isblocking", inputManager.isblocking);
+        animationController.SetBool("iskicking", inputManager.iskicking);
         animationController.SetBool("ispunching", inputManager.ispunching);
         animationController.SetFloat("punch1", inputManager.randNumber);
         whenactionstopmoving();
-        transform.Translate(inputManager.CurrentInput * Time.deltaTime * playerSpeed);
 
+        if (inputManager.CurrentInput.x != 0.0)
+        {
+            transform.Translate(inputManager.CurrentInput * Time.deltaTime * playerSpeed);
+        }
+        else if (inputManager.CurrentInput.y != 0.0 && !inputManager.isjumping)
+        {
+            Debug.Log("Jumping from player");
+            Debug.Log(rb.velocity);
+            rb.velocity = new Vector2(0.0f, jumpHeight);
+        }
+        //else if (inputManager.isjumping)
+        //{
+        //    rb.velocity = new Vector2(0.0f, -50f * Time.deltaTime);
+        //}
+        Debug.Log(inputManager.CurrentInput);
     }
 
     private void whenactionstopmoving()
     {
-        if (inputManager.iskneeling == true || inputManager.iskicking == true || inputManager.ispunching == true)
+        if (inputManager.iskneeling || inputManager.iskicking || inputManager.ispunching)
             playerSpeed = 0;
+        else if (inputManager.isjumping)
+            playerSpeed = 4;
         else
             playerSpeed = 5;
     }

@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Chose Player
   - music
+  - Side
+  - ground
   layers:
   - Default
   - TransparentFX
@@ -15,7 +17,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Enemy
   - 
   - 
   - 
