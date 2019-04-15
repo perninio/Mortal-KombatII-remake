@@ -30,14 +30,22 @@ public class InputManager : MonoBehaviour
     public bool iskicking = false;//do zaimplementownia
     public bool iskneeling = false;
     public bool isjumping = false;
+    public bool isGrounded = true;
     public float randNumber=0;
+
+    // Attack pos and range
+    public Transform attackPos;
+    public float attackRange;
+    public LayerMask enemy;
 
     // Kick speed
     public float KickRate = 0.8f;
     public float NextKick;
-    // Punch speed
 
-    
+    // Punch speed
+    public float PunchRate = 0.4f;
+    public float NextPunch;
+
 
     public Vector2 CurrentInput
     {
@@ -73,10 +81,7 @@ public class InputManager : MonoBehaviour
                 return 0;
             }
             return Input.GetAxis("Horizontal");
-                
         }
-
-
     }
     //Flip changes the x to -x so it reverse the object
     void Flip()
@@ -87,17 +92,14 @@ public class InputManager : MonoBehaviour
         theScale.x *= -1;
         transform.localScale = theScale;
     }
-    
-
 
     float VerticalInput
     {
         get
         {
-            if (upButton.CurrentState == ButtonState.Held || upButton.CurrentState == ButtonState.PressedDown)
+            if (upButton.CurrentState == ButtonState.PressedDown)
             {
                 iskneeling = false;
-                isjumping = true;
                 return 1;
             }
             else if (downButton.CurrentState == ButtonState.Held || downButton.CurrentState == ButtonState.PressedDown)
@@ -105,14 +107,35 @@ public class InputManager : MonoBehaviour
                 iskneeling = true;
                 return 0;
             }
-            else if (downButton.CurrentState == ButtonState.None ||downButton.CurrentState == ButtonState.Released|| upButton.CurrentState == ButtonState.Released || upButton.CurrentState == ButtonState.None )
+            else if (downButton.CurrentState == ButtonState.None || downButton.CurrentState == ButtonState.Released)
             {
                 iskneeling = false;
-                isjumping = false;
             }
             return Input.GetAxis("Vertical");
         }
     }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "ground")
+        {
+            isGrounded = true;
+            isjumping = false;
+            Debug.Log("Grounded");
+        }
+    }
+
+    void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "ground")
+        {
+            isGrounded = false;
+            isjumping = true;
+            Debug.Log("Grounded");
+        }
+    }
+
+
     public void Update()
     {
         //Blocking
@@ -130,6 +153,12 @@ public class InputManager : MonoBehaviour
         {
             iskicking = true;
             NextKick = Time.time + KickRate;
+            Collider2D[] enemieshit = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);
+            for (int i = 0; i < enemieshit.Length; i++)
+            {
+                enemieshit[i].GetComponent<Bot>().TakeDamage(15);
+                Debug.Log("Kick");
+            }
         }
         else if (kickButton.CurrentState == ButtonState.Released || kickButton.CurrentState == ButtonState.Held || kickButton.CurrentState == ButtonState.None)
         {
@@ -140,14 +169,26 @@ public class InputManager : MonoBehaviour
         // 4 Ciosy kombo w trakcie kombo można blokować
         // Po 4 ciosach przeciwnik odlatuje
         // Losujemy tylko pierwszy cios reszta jest naprzemian
-        if (punchButton.CurrentState == ButtonState.PressedDown )
+        if (punchButton.CurrentState == ButtonState.PressedDown && Time.time > NextPunch)
         {
             ispunching = true;
+            NextPunch = Time.time + PunchRate;
+            Collider2D[] enemieshit = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);
+            for (int i = 0; i < enemieshit.Length; i++) {
+                enemieshit[i].GetComponent<Bot>().TakeDamage(10);
+                Debug.Log("Punch");
+            }
+
         }
         else if (punchButton.CurrentState == ButtonState.Released || punchButton.CurrentState == ButtonState.Held || punchButton.CurrentState == ButtonState.None)
         {
             ispunching = false;
-            randNumber=Random.Range(0f,1f);
+            randNumber=Random.Range(0f, 1f);
         }
+    }
+
+    void OnDrawGizmosSelected(){
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(attackPos.position, attackRange);
     }
 }
