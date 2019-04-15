@@ -48,6 +48,6 @@ public class Player : MonoBehaviour
         if (inputManager.iskneeling == true || inputManager.iskicking == true || inputManager.ispunching == true)
             playerSpeed = 0;
         else
-            playerSpeed = 10;
+            playerSpeed = 5;
     }
 }

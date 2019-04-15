@@ -32,12 +32,18 @@ public class InputManager : MonoBehaviour
     public bool isjumping = false;
     public float randNumber=0;
 
+    // Kick speed
+    public float KickRate = 0.8f;
+    public float NextKick;
+    // Punch speed
+
+    
 
     public Vector2 CurrentInput
     {
         get
         {
-            return new Vector2(HorizontalInput, VerticalInput);//, VerticalInput);
+            return new Vector2(HorizontalInput, VerticalInput);
         }
     }
 
@@ -109,27 +115,36 @@ public class InputManager : MonoBehaviour
     }
     public void Update()
     {
-       if (blockButton.CurrentState == ButtonState.Held || blockButton.CurrentState == ButtonState.PressedDown)
+        //Blocking
+        if (blockButton.CurrentState == ButtonState.Held || blockButton.CurrentState == ButtonState.PressedDown)
         {
             isblocking = true;
         }
-       else if (blockButton.CurrentState == ButtonState.Released  || blockButton.CurrentState == ButtonState.None)
+        else if (blockButton.CurrentState == ButtonState.Released || blockButton.CurrentState == ButtonState.None)
         {
             isblocking = false;
         }
-       if (kickButton.CurrentState == ButtonState.Held ||kickButton.CurrentState == ButtonState.PressedDown)
+
+       //Kicking
+       if (kickButton.CurrentState == ButtonState.PressedDown && Time.time > NextKick)
         {
             iskicking = true;
+            NextKick = Time.time + KickRate;
         }
-        else if (kickButton.CurrentState == ButtonState.Released || kickButton.CurrentState == ButtonState.None)
+        else if (kickButton.CurrentState == ButtonState.Released || kickButton.CurrentState == ButtonState.Held || kickButton.CurrentState == ButtonState.None)
         {
             iskicking = false;
         }
-        if (punchButton.CurrentState == ButtonState.Held || punchButton.CurrentState == ButtonState.PressedDown)
+
+        // Punching
+        // 4 Ciosy kombo w trakcie kombo można blokować
+        // Po 4 ciosach przeciwnik odlatuje
+        // Losujemy tylko pierwszy cios reszta jest naprzemian
+        if (punchButton.CurrentState == ButtonState.PressedDown )
         {
             ispunching = true;
         }
-        else if (punchButton.CurrentState == ButtonState.Released || punchButton.CurrentState == ButtonState.None)
+        else if (punchButton.CurrentState == ButtonState.Released || punchButton.CurrentState == ButtonState.Held || punchButton.CurrentState == ButtonState.None)
         {
             ispunching = false;
             randNumber=Random.Range(0f,1f);
