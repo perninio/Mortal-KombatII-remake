@@ -13,11 +13,13 @@ public class Bot : MonoBehaviour
     public GameObject bloodEffect;
     public float jumpHeight = 10f;
     public Rigidbody2D rb;
-    private int health = 100;
+    public int health;
+    
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        health = 100;
     }
 
     private void Awake()
