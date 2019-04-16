@@ -12,11 +12,11 @@ public class Player : MonoBehaviour
    [SerializeField] float playerSpeed = 5f;    
    [SerializeField] public GameObject canvaseControls;
    [SerializeField] public GameObject healthBar;
-
+    public GameObject location;
     public float jumpHeight = 10f;
     public Rigidbody2D rb;
     public int health = 100;
-
+    public Animator fire;
     void Start() {
         rb = GetComponent<Rigidbody2D>();
     }
@@ -34,6 +34,14 @@ public class Player : MonoBehaviour
             MainMenu.canvas = false;
             canvaseControls.SetActive(true);
         }        
+         if(InputManager.finishpunchbool)
+        {
+            animationController.SetTrigger("finishpunch");
+            location.transform.position = GameObject.Find("bot").transform.position;
+            location.SetActive(true);
+            fire.SetBool("onfire",true);
+
+        }
 
         animationController.SetBool("ismoving", inputManager.ismoving);
         animationController.SetBool("iskneeling", inputManager.iskneeling);
@@ -58,7 +66,7 @@ public class Player : MonoBehaviour
         //{
         //    rb.velocity = new Vector2(0.0f, -50f * Time.deltaTime);
         //}
-        Debug.Log(inputManager.CurrentInput);
+       // Debug.Log(inputManager.CurrentInput);
     }
 
     private void whenactionstopmoving()

@@ -33,6 +33,8 @@ public class InputManager : MonoBehaviour
     public bool isGrounded = true;
     public float randNumber=0;
 
+    public static bool finishpunchbool = false;
+
     // Attack pos and range
     public Transform attackPos;
     public float attackRange;
@@ -151,6 +153,7 @@ public class InputManager : MonoBehaviour
        //Kicking
        if (kickButton.CurrentState == ButtonState.PressedDown && Time.time > NextKick)
         {
+
             iskicking = true;
             NextKick = Time.time + KickRate;
             Collider2D[] enemieshit = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);
@@ -171,6 +174,10 @@ public class InputManager : MonoBehaviour
         // Losujemy tylko pierwszy cios reszta jest naprzemian
         if (punchButton.CurrentState == ButtonState.PressedDown && Time.time > NextPunch)
         {
+            if(Endgame.enableFinisher)
+            {
+                finishpunchbool = true;
+            }
             ispunching = true;
             NextPunch = Time.time + PunchRate;
             Collider2D[] enemieshit = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);

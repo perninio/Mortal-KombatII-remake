@@ -19,7 +19,7 @@ public class Endgame : MonoBehaviour
        enemy= GameObject.Find("bot").GetComponent<Bot>();
         enemyanimator=GameObject.Find("bot").GetComponent<Animator>();
         finishhim = GetComponent<AudioSource>();
-        scorpionanimator = GameObject.Find("scorpion").GetComponent<Animator>();
+       // scorpionanimator = GameObject.Find("scorpion").GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -34,9 +34,10 @@ public class Endgame : MonoBehaviour
                finish_him=false;
                 finishhim.Play(0);
                 enableFinisher = true;
-                
+                scorpionanimator.SetInteger("Finishenable", 2);
+                Debug.Log("FinishEnable");
             }
-            scorpionanimator.SetInteger("FinishEnable", 2);
+            
         }
     }
 }
