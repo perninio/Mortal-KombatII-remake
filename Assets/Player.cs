@@ -40,6 +40,7 @@ public class Player : MonoBehaviour
             location.transform.position = GameObject.Find("bot").transform.position;
             location.SetActive(true);
             fire.SetBool("onfire",true);
+            InputManager.finishpunchbool = false;
 
         }
 

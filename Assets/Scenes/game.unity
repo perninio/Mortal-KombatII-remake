@@ -3448,6 +3448,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1733475566}
   - component: {fileID: 1733475565}
+  - component: {fileID: 1733475567}
   - component: {fileID: 1733475564}
   m_Layer: 0
   m_Name: fire
@@ -3517,7 +3518,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.08, y: 0.07}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 0
@@ -3537,6 +3538,18 @@ Transform:
   m_Father: {fileID: 1445242321}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1733475567
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1733475563}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ad1671b8276bd445a3546edbd8fd2a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1800654459
 GameObject:
   m_ObjectHideFlags: 0

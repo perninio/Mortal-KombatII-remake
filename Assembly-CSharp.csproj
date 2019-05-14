@@ -73,6 +73,7 @@
     <Compile Include="Assets\Player.cs" />
     <Compile Include="Assets\punchsound.cs" />
     <Compile Include="Assets\SoundEffectsHandle.cs" />
+    <Compile Include="Assets\testscript.cs" />
     <Compile Include="Assets\TouchButton.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Hania/Documents/Mortak_KombatII_remake/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
