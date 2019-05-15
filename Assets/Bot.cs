@@ -18,11 +18,12 @@ public class Bot : MonoBehaviour
     // Block action rate
     public float BlockRate = 5f;
     public float NextBlock;
-
+    public Animator animDamage;
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         health = 100;
+        animDamage = GetComponent<Animator>();
     }
 
     private void Awake()
@@ -36,7 +37,9 @@ public class Bot : MonoBehaviour
             damage = 1;
             Debug.Log("HIT Blocked ! " + damage);
         }
-           
+        if (!inputManager.isblocking) {
+            animDamage.Play("takehit", 0, 0);
+        }
         health -= damage;
         // TO DO blood effect
         //Instantiate(bloodEffect, transform.position, Quaternion.identity);
