@@ -45,9 +45,11 @@ public class InputManager : MonoBehaviour
     public float NextKick;
 
     // Punch speed
-    public float PunchRate = 0.4f;
+    public float PunchRate = 0.7f;
     public float NextPunch;
 
+    // Moves list
+    List<char> currentCombo = new List<char>();
 
     public Vector2 CurrentInput
     {

@@ -14,7 +14,10 @@ public class Bot : MonoBehaviour
     public float jumpHeight = 10f;
     public Rigidbody2D rb;
     public int health;
-    
+
+    // Block action rate
+    public float BlockRate = 5f;
+    public float NextBlock;
 
     private void Start()
     {
@@ -29,10 +32,16 @@ public class Bot : MonoBehaviour
     }
 
     public void TakeDamage(int damage) {
+        if (inputManager.isblocking) {
+            damage = 1;
+            Debug.Log("HIT Blocked ! " + damage);
+        }
+           
         health -= damage;
         // TO DO blood effect
         //Instantiate(bloodEffect, transform.position, Quaternion.identity);
         Debug.Log("damage TAKEN ! " + damage);
+
         healthBar.GetComponent<HealthBar>().SetSize((float)health/100);
 
     }
@@ -43,7 +52,6 @@ public class Bot : MonoBehaviour
         animationController.SetBool("ismoving", inputManager.ismoving);
         animationController.SetBool("iskneeling", inputManager.iskneeling);
         animationController.SetBool("isjumping", inputManager.isjumping);
-        animationController.SetBool("isblocking", inputManager.isblocking);
         animationController.SetBool("iskicking", inputManager.iskicking);
         animationController.SetBool("ispunching", inputManager.ispunching);
         animationController.SetFloat("punch1", inputManager.randNumber);
@@ -56,6 +64,11 @@ public class Bot : MonoBehaviour
         else if (inputManager.CurrentInput.y != 0.0 && !inputManager.isjumping)
         {
             rb.velocity = new Vector2(0.0f, jumpHeight);
+        }
+        else if (Time.time > NextBlock) {
+            inputManager.isblocking = !inputManager.isblocking;
+            NextBlock = Time.time + BlockRate;
+            animationController.SetBool("isblocking", inputManager.isblocking);
         }
     }
 

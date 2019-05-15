@@ -2746,7 +2746,7 @@ Rigidbody2D:
   m_Mass: 20
   m_LinearDrag: 0.25
   m_AngularDrag: 0.24
-  m_GravityScale: 0.5
+  m_GravityScale: 2.5
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -2788,7 +2788,7 @@ MonoBehaviour:
     m_Bits: 256
   KickRate: 0.8
   NextKick: 0
-  PunchRate: 0.4
+  PunchRate: 0.7
   NextPunch: 0
 --- !u!114 &1445242325
 MonoBehaviour:
@@ -2806,7 +2806,7 @@ MonoBehaviour:
   canvaseControls: {fileID: 996688802}
   healthBar: {fileID: 1824760902}
   location: {fileID: 1733475563}
-  jumpHeight: 5
+  jumpHeight: 10
   rb: {fileID: 1445242323}
   health: 0
   fire: {fileID: 1733475564}
@@ -3297,6 +3297,8 @@ MonoBehaviour:
   jumpHeight: 5
   rb: {fileID: 1711110573}
   health: 100
+  BlockRate: 5
+  NextBlock: 0
 --- !u!114 &1711110579
 MonoBehaviour:
   m_ObjectHideFlags: 0

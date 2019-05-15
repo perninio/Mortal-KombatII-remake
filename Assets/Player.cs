@@ -13,7 +13,7 @@ public class Player : MonoBehaviour
    [SerializeField] public GameObject canvaseControls;
    [SerializeField] public GameObject healthBar;
     public GameObject location;
-    public float jumpHeight = 10f;
+    public float jumpHeight = 7f;
     public Rigidbody2D rb;
     public int health = 100;
     public Animator fire;
@@ -60,7 +60,9 @@ public class Player : MonoBehaviour
         else if (inputManager.CurrentInput.y != 0.0 && !inputManager.isjumping)
         {
             Debug.Log("Jumping from player");
+
             Debug.Log(rb.velocity);
+            rb.AddForce(new Vector2(0, 10), ForceMode2D.Impulse);
             rb.velocity = new Vector2(0.0f, jumpHeight);
         }
         //else if (inputManager.isjumping)
