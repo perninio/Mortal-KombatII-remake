@@ -13,7 +13,7 @@ public class InputManager : MonoBehaviour
         Held
     }
 
-
+    Combo combo;
     [SerializeField] TouchButton leftButton;
     [SerializeField] TouchButton rightButton;
     [SerializeField] TouchButton upButton;
@@ -51,6 +51,11 @@ public class InputManager : MonoBehaviour
     // Moves list
     List<char> currentCombo = new List<char>();
 
+    private void Awake()
+    {
+        combo = GetComponent<Combo>();
+    }
+
     public Vector2 CurrentInput
     {
         get
@@ -66,6 +71,9 @@ public class InputManager : MonoBehaviour
             if (leftButton.CurrentState == ButtonState.Held || leftButton.CurrentState == ButtonState.PressedDown)
             {
                 ismoving = true;
+                if (leftButton.CurrentState == ButtonState.PressedDown) {
+                    combo.addMove("L");
+                }
                 if (btnrealeased && rightside)
                     Flip();
                 return -1;
@@ -74,6 +82,9 @@ public class InputManager : MonoBehaviour
             else if (rightButton.CurrentState == ButtonState.Held || rightButton.CurrentState == ButtonState.PressedDown)
             {
                 ismoving = true;
+                if (rightButton.CurrentState == ButtonState.PressedDown) {
+                    combo.addMove("R");
+                }
                 if (btnrealeased && !rightside)
                     Flip();
                 return 1;
@@ -103,11 +114,15 @@ public class InputManager : MonoBehaviour
         {
             if (upButton.CurrentState == ButtonState.PressedDown)
             {
+                combo.addMove("U");
                 iskneeling = false;
                 return 1;
             }
             else if (downButton.CurrentState == ButtonState.Held || downButton.CurrentState == ButtonState.PressedDown)
             {
+                if (downButton.CurrentState == ButtonState.PressedDown) {
+                    combo.addMove("D");
+                }
                 iskneeling = true;
                 return 0;
             }
@@ -155,7 +170,7 @@ public class InputManager : MonoBehaviour
        //Kicking
        if (kickButton.CurrentState == ButtonState.PressedDown && Time.time > NextKick)
         {
-
+            combo.addMove("K");
             iskicking = true;
             NextKick = Time.time + KickRate;
             Collider2D[] enemieshit = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);
@@ -180,14 +195,17 @@ public class InputManager : MonoBehaviour
             {
                 finishpunchbool = true;
             }
-            ispunching = true;
-            NextPunch = Time.time + PunchRate;
-            Collider2D[] enemieshit = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);
-            for (int i = 0; i < enemieshit.Length; i++) {
-                enemieshit[i].GetComponent<Bot>().TakeDamage(10);
-                Debug.Log("Punch");
+            combo.addMove("P");
+            if (!combo.checkCombo())
+            {
+                ispunching = true;
+                NextPunch = Time.time + PunchRate;
+                Collider2D[] enemieshit = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);
+                for (int i = 0; i < enemieshit.Length; i++) {
+                    enemieshit[i].GetComponent<Bot>().TakeDamage(10);
+                    Debug.Log("Punch");
+                }
             }
-
         }
         else if (punchButton.CurrentState == ButtonState.Released || punchButton.CurrentState == ButtonState.Held || punchButton.CurrentState == ButtonState.None)
         {

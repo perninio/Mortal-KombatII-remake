@@ -2614,6 +2614,7 @@ GameObject:
   - component: {fileID: 1445242323}
   - component: {fileID: 1445242324}
   - component: {fileID: 1445242325}
+  - component: {fileID: 1445242326}
   m_Layer: 0
   m_Name: scorpion
   m_TagString: Untagged
@@ -2810,6 +2811,24 @@ MonoBehaviour:
   rb: {fileID: 1445242323}
   health: 0
   fire: {fileID: 1733475564}
+--- !u!114 &1445242326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1445242318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c834454c3e3206c4b9b56bd101e88c9f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  special_hits:
+  - {fileID: 68572469168157451, guid: 8127a2f892db53e4388d4fe4de56e006, type: 3}
+  moves:
+  - LRP
+  timeout: 1
+  nextTimeout: 0
 --- !u!1 &1529445445
 GameObject:
   m_ObjectHideFlags: 0
