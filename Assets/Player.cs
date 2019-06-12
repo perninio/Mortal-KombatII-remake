@@ -15,16 +15,43 @@ public class Player : MonoBehaviour
     public GameObject location;
     public float jumpHeight = 7f;
     public Rigidbody2D rb;
-    public int health = 100;
+    public int health;
     public Animator fire;
+    private Animator animDamage;
+
     void Start() {
         rb = GetComponent<Rigidbody2D>();
+        Debug.Log("Awake Player");
+        health = 100;
+        animDamage = GetComponent<Animator>();
+        Endgame.player = this;
     }
 
     private void Awake()
     {
         inputManager = GetComponent<InputManager>();
         animationController = GetComponent<Animator>();
+        GameObject bot = GameObject.FindGameObjectWithTag("Enemy");
+        Bot botscript = bot.GetComponent<Bot>();
+        botscript.target = this.transform;
+    }
+
+    public void TakeDamage(int damage)
+    {
+        if (inputManager.isblocking)
+        {
+            damage = 1;
+            Debug.Log("HIT Blocked ! " + damage);
+        }
+        if (!inputManager.isblocking)
+        {
+            animDamage.Play("takehit", 0, 0);
+        }
+        health -= damage;
+        // TO DO blood effect
+        //Instantiate(bloodEffect, transform.position, Quaternion.identity);
+        Debug.Log("damage TAKEN ! " + damage);
+        healthBar.GetComponent<HealthBar>().SetSize((float)health / 100);
     }
 
     void Update()
@@ -41,7 +68,6 @@ public class Player : MonoBehaviour
             location.SetActive(true);
             fire.SetBool("onfire",true);
             InputManager.finishpunchbool = false;
-
         }
 
         animationController.SetBool("ismoving", inputManager.ismoving);
