@@ -28,13 +28,23 @@ public class BotInput : MonoBehaviour
     public Transform attackPos;
     public float attackRange;
     public LayerMask enemy;
-    // Kick speed
-    public float KickRate = 0.8f;
-    public float NextKick;
-
-    // Punch speed
 
 
+
+    // Decision making
+    float kickRatio = 0.5f;
+    float punchRatio = 0.4f;
+    float blockRatio = 0.1f;
+    public float blockRate = 1.5f;
+    public float kickRate = 1.2f;
+    public float punchRate = 1f;
+    public float nextMove = 0f;
+
+    Bot bot;
+    private void Awake()
+    {
+        bot = GetComponent<Bot>();
+    }
 
     public Vector2 CurrentInput
     {
@@ -89,59 +99,73 @@ public class BotInput : MonoBehaviour
         }
     }
 
-
-    public void Update()
+    public void defensiveState()
     {
-        //Blocking
-        //if (blockButton.CurrentState == ButtonState.Held || blockButton.CurrentState == ButtonState.PressedDown)
-        //{
-        //    isblocking = true;
-        //}
-        //else if (blockButton.CurrentState == ButtonState.Released || blockButton.CurrentState == ButtonState.None)
-        //{
-        //    isblocking = false;
-        //}
-
-        //Kicking
-        //if (kickButton.CurrentState == ButtonState.PressedDown && Time.time > NextKick)
-        //{
-        //    iskicking = true;
-        //    NextKick = Time.time + KickRate;
-        //    Collider2D[] enemieshit = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);
-        //    for (int i = 0; i < enemieshit.Length; i++)
-        //    {
-        //        Debug.Log("HIT");
-        //    }
-        //}
-        //else if (kickButton.CurrentState == ButtonState.Released || kickButton.CurrentState == ButtonState.Held || kickButton.CurrentState == ButtonState.None)
-        //{
-        //    iskicking = false;
-        //}
-
-        // Punching
-        // 4 Ciosy kombo w trakcie kombo można blokować
-        // Po 4 ciosach przeciwnik odlatuje
-        // Losujemy tylko pierwszy cios reszta jest naprzemian
-        //    if (punchButton.CurrentState == ButtonState.PressedDown)
-        //    {
-        //        ispunching = true;
-        //        Collider2D[] enemieshit = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);
-        //        for (int i = 0; i < enemieshit.Length; i++)
-        //        {
-        //            Debug.Log("HIT");
-        //        }
-
-        //    }
-        //    else if (punchButton.CurrentState == ButtonState.Released || punchButton.CurrentState == ButtonState.Held || punchButton.CurrentState == ButtonState.None)
-        //    {
-        //        ispunching = false;
-        //        randNumber = Random.Range(0f, 1f);
-        //    }
+        kickRatio = 0.3f;
+        punchRatio = 0.3f;
+        blockRatio = 0.4f;
     }
 
-    void OnDrawGizmosSelected()
-    {
+    public void makeMove() {
+        float brain = Random.Range(0f, 1f);
+        if (brain <= kickRatio)
+        {
+            // Przemek dodaj to kopanie dla sub Z i odkometuj sprwadzacz trafienia
+            Debug.Log("That is a fucking kick");
+            iskicking = true;
+            //checkIfHit(15);
+            nextMove = Time.time + kickRate;
+        }
+        else if (brain > kickRatio && brain <= punchRatio + kickRatio)
+        {
+            Debug.Log("That is a fucking punch");
+            ispunching = true;
+            checkIfHit(10);
+            nextMove = Time.time + punchRate;
+        }
+        else {
+            Debug.Log("Screw it BLOCK that shit");
+            isblocking = true;
+            nextMove = Time.time + blockRate;
+        }
+    }
+
+    public void checkIfHit(int damage) {
+        Collider2D[] enemieshit = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);
+        for (int i = 0; i < enemieshit.Length; i++)
+        {
+            enemieshit[i].GetComponent<Player>().TakeDamage(damage);
+            Debug.Log("Bot hit player");
+        }
+    }
+
+    public void Update() {
+
+        if (bot.moveleft)
+        {
+            ismoving = true;
+            isblocking = false;
+        }
+        else if (bot.moveRight)
+        {
+            ismoving = true;
+            isblocking = false;
+        }
+        else
+        {
+            ismoving = false;
+            iskicking = false;
+            ispunching = false;
+            if (nextMove < Time.time)
+            {
+                isblocking = false;
+                makeMove();
+            }
+        }
+    }
+
+    void OnDrawGizmosSelected() {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(attackPos.position, attackRange);
-    }
+     }
 }
